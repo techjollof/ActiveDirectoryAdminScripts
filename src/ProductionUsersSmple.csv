@@ -1,0 +1,6 @@
+Name,Displayname,SamAccountName,GivenName,Surname,Department,Title,UserPrincipalName,AccountPassword,City,PostalCode,StreetAddress,Country,State
+"John Doe","John Doe","jdoe","John","Doe","Engineering","Software Engineer","jdoeexample.com","P@ssw0rd123","New York","10001","123 Main St","USA","NY"
+"Jane Smith","Jane Smith","jsmith","Jane","Smith","Marketing","Marketing Manager","jsmith@example.com","P@ssw0rd123","San Francisco","94105","456 Market St","USA","CA"
+"Robert Brown","Robert Brown","rbrown","Robert","Brown","Sales","Sales Executive","rbrown@example.com","P@ssw0rd123","Chicago","60601","789 State St","USA","IL"
+"Emily Davis","Emily Davis","edavis","Emily","Davis","Finance","Financial Analyst","edavis@example.com","","Boston","02108","101 Beacon St","USA","MA"
+"Michael Johnson","Michael Johnson","mjohnson","Michael","Johnson","HR","HR Specialist","mjohnson@example.com","P@ssw0rd123","Seattle","98101","202 Pine St","USA","WA"

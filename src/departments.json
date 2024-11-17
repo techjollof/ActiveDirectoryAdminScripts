@@ -1,0 +1,1509 @@
+[
+    {
+        "Positions":  [
+                          "Manager",
+                          "Accountant",
+                          "Data Entry",
+                          "Financial Analyst",
+                          "Controller",
+                          "Bookkeeper"
+                      ],
+        "Name":  "Finance \u0026 Accounting"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Administrator",
+                          "Officer",
+                          "Coordinator",
+                          "Recruiter",
+                          "HR Analyst"
+                      ],
+        "Name":  "Human Resources"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Representative",
+                          "Consultant",
+                          "Sales Engineer",
+                          "Account Executive",
+                          "Sales Analyst"
+                      ],
+        "Name":  "Sales"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Assistant",
+                          "Specialist",
+                          "Marketing Analyst",
+                          "Brand Manager"
+                      ],
+        "Name":  "Marketing"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Engineer",
+                          "Scientist",
+                          "Researcher",
+                          "Technician",
+                          "Project Engineer"
+                      ],
+        "Name":  "Engineering"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Consultant",
+                          "Analyst",
+                          "Project Manager",
+                          "Senior Consultant",
+                          "Business Analyst"
+                      ],
+        "Name":  "Consulting"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Engineer",
+                          "Technician",
+                          "Administrator",
+                          "IT Support Specialist",
+                          "Systems Analyst"
+                      ],
+        "Name":  "IT"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Engineer",
+                          "Analyst",
+                          "Coordinator",
+                          "Strategist",
+                          "Project Planner"
+                      ],
+        "Name":  "Planning"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Clerk",
+                          "Contracts Specialist",
+                          "Contracts Analyst",
+                          "Contract Administrator"
+                      ],
+        "Name":  "Contracts"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Clerk",
+                          "Purchaser",
+                          "Buyer",
+                          "Procurement Specialist"
+                      ],
+        "Name":  "Purchasing"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Representative",
+                          "Supervisor",
+                          "Customer Support Specialist",
+                          "Call Center Agent",
+                          "Client Relations Manager"
+                      ],
+        "Name":  "Customer Service"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Advisor",
+                          "Paralegal",
+                          "Compliance Officer",
+                          "Legal Assistant",
+                          "Corporate Counsel"
+                      ],
+        "Name":  "Legal"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Scientist",
+                          "Analyst",
+                          "Lab Technician",
+                          "Research Associate",
+                          "R\u0026D Engineer"
+                      ],
+        "Name":  "Research \u0026 Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Technician",
+                          "Quality Control Inspector",
+                          "QA Engineer",
+                          "Compliance Specialist"
+                      ],
+        "Name":  "Quality Assurance"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Coordinator",
+                          "Logistics Specialist",
+                          "Supply Chain Planner",
+                          "Inventory Manager"
+                      ],
+        "Name":  "Supply Chain"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Product Owner",
+                          "Product Marketing Manager",
+                          "Product Development Specialist",
+                          "Market Research Analyst"
+                      ],
+        "Name":  "Product Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Executive",
+                          "Analyst",
+                          "Partnership Manager",
+                          "Growth Strategist",
+                          "Business Strategist"
+                      ],
+        "Name":  "Business Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Trainer",
+                          "Instructional Designer",
+                          "Learning Coordinator",
+                          "Training Manager"
+                      ],
+        "Name":  "Training \u0026 Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Technician",
+                          "Maintenance Supervisor",
+                          "Facility Coordinator",
+                          "Safety Manager",
+                          "Building Manager"
+                      ],
+        "Name":  "Facility Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Officer",
+                          "Specialist",
+                          "Compliance Manager",
+                          "Safety Coordinator",
+                          "EHS Analyst"
+                      ],
+        "Name":  "Environmental Health \u0026 Safety"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Risk Officer",
+                          "Compliance Analyst",
+                          "Insurance Manager",
+                          "Safety Officer"
+                      ],
+        "Name":  "Risk Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Communications Coordinator",
+                          "Media Relations Manager",
+                          "Public Affairs Specialist",
+                          "Content Creator"
+                      ],
+        "Name":  "Public Relations"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Event Planner",
+                          "Logistics Manager",
+                          "Sponsorship Coordinator",
+                          "Venue Manager"
+                      ],
+        "Name":  "Event Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Writer",
+                          "Editor",
+                          "Content Strategist",
+                          "Copywriter",
+                          "Multimedia Producer"
+                      ],
+        "Name":  "Content Creation"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Designer",
+                          "Illustrator",
+                          "Visual Designer",
+                          "Creative Director",
+                          "UI/UX Designer"
+                      ],
+        "Name":  "Graphic Design"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "SEO Specialist",
+                          "PPC Specialist",
+                          "Social Media Manager",
+                          "Email Marketing Specialist"
+                      ],
+        "Name":  "Digital Marketing"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Content Creator",
+                          "Community Manager",
+                          "Social Media Analyst",
+                          "Social Media Specialist"
+                      ],
+        "Name":  "Social Media"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Data Scientist",
+                          "Business Intelligence Analyst",
+                          "Data Engineer",
+                          "Reporting Analyst"
+                      ],
+        "Name":  "Data Analytics"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Scientist",
+                          "Machine Learning Engineer",
+                          "Data Analyst",
+                          "AI Researcher",
+                          "Quantitative Analyst"
+                      ],
+        "Name":  "Data Science"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Developer",
+                          "UI/UX Designer",
+                          "Mobile Application Tester",
+                          "Product Manager",
+                          "Technical Lead"
+                      ],
+        "Name":  "Mobile Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Developer",
+                          "Frontend Developer",
+                          "Backend Developer",
+                          "Full Stack Developer",
+                          "Web Designer"
+                      ],
+        "Name":  "Web Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Security Engineer",
+                          "Network Security Specialist",
+                          "Information Security Manager",
+                          "Incident Response Manager"
+                      ],
+        "Name":  "Cybersecurity"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Technician",
+                          "Network Engineer",
+                          "Systems Administrator",
+                          "Network Architect",
+                          "Help Desk Technician"
+                      ],
+        "Name":  "Network Administration"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Architect",
+                          "Cloud Engineer",
+                          "DevOps Engineer",
+                          "Cloud Consultant",
+                          "Cloud Solutions Architect"
+                      ],
+        "Name":  "Cloud Services"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Engineer",
+                          "DevOps Consultant",
+                          "Build Engineer",
+                          "Release Manager",
+                          "Automation Engineer"
+                      ],
+        "Name":  "DevOps"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "SEO Analyst",
+                          "Content Strategist",
+                          "Technical SEO Specialist",
+                          "Link Building Specialist"
+                      ],
+        "Name":  "SEO"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "E-commerce Analyst",
+                          "Product Merchandiser",
+                          "Online Marketing Manager",
+                          "Customer Experience Manager"
+                      ],
+        "Name":  "E-commerce"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Officer",
+                          "Communications Specialist",
+                          "Internal Relations Manager",
+                          "Corporate Communication Manager",
+                          "Content Creator"
+                      ],
+        "Name":  "Internal Communications"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Brand Strategist",
+                          "Marketing Specialist",
+                          "Product Brand Manager",
+                          "Brand Coordinator"
+                      ],
+        "Name":  "Brand Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Merchandise Planner",
+                          "Buyer",
+                          "Inventory Planner",
+                          "Category Manager"
+                      ],
+        "Name":  "Merchandise Planning"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Strategist",
+                          "Business Planner",
+                          "Market Research Analyst",
+                          "Financial Planner"
+                      ],
+        "Name":  "Strategic Planning"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Franchise Consultant",
+                          "Operations Manager",
+                          "Franchise Development Manager",
+                          "Support Manager"
+                      ],
+        "Name":  "Franchise Management"
+    },
+    {
+        "Positions":  [
+                          "Technician",
+                          "Specialist",
+                          "Help Desk Analyst",
+                          "Technical Support Manager",
+                          "IT Coordinator",
+                          "Support Engineer"
+                      ],
+        "Name":  "IT Support"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Officer",
+                          "Compliance Analyst",
+                          "Compliance Coordinator",
+                          "Regulatory Affairs Specialist",
+                          "Policy Analyst"
+                      ],
+        "Name":  "Compliance"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Payroll Analyst",
+                          "Payroll Coordinator",
+                          "Payroll Technician",
+                          "Compensation Analyst"
+                      ],
+        "Name":  "Payroll"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Tax Specialist",
+                          "Tax Consultant",
+                          "Tax Auditor",
+                          "International Tax Manager"
+                      ],
+        "Name":  "Tax"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Investment Advisor",
+                          "Portfolio Manager",
+                          "Research Analyst",
+                          "Financial Consultant"
+                      ],
+        "Name":  "Investments"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Underwriter",
+                          "Claims Adjuster",
+                          "Insurance Broker",
+                          "Risk Analyst",
+                          "Insurance Agent"
+                      ],
+        "Name":  "Insurance"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Logistics Analyst",
+                          "Transportation Manager",
+                          "Supply Chain Specialist",
+                          "Warehouse Manager"
+                      ],
+        "Name":  "Logistics"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Clerk",
+                          "Inventory Analyst",
+                          "Stock Control Manager",
+                          "Warehouse Supervisor",
+                          "Inventory Specialist"
+                      ],
+        "Name":  "Inventory Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Media Analyst",
+                          "Press Officer",
+                          "Communications Director",
+                          "Public Affairs Manager"
+                      ],
+        "Name":  "Media Relations"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Executive",
+                          "Media Planner",
+                          "Creative Strategist",
+                          "Account Manager",
+                          "Campaign Manager"
+                      ],
+        "Name":  "Advertising"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Sponsorship Executive",
+                          "Partnership Manager",
+                          "Event Sponsorship Manager",
+                          "Business Development Manager"
+                      ],
+        "Name":  "Sponsorship"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Affiliate Coordinator",
+                          "Affiliate Analyst",
+                          "Program Manager",
+                          "Digital Marketing Specialist"
+                      ],
+        "Name":  "Affiliate Marketing"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Writer",
+                          "Content Writer",
+                          "Copy Editor",
+                          "Creative Copywriter",
+                          "Brand Copywriter"
+                      ],
+        "Name":  "Copywriting"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Artist",
+                          "Production Coordinator",
+                          "Graphic Artist",
+                          "Print Production Manager",
+                          "Visual Effects Artist"
+                      ],
+        "Name":  "Graphic Production"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Researcher",
+                          "UX Designer",
+                          "Usability Analyst",
+                          "Interaction Designer",
+                          "UX Researcher"
+                      ],
+        "Name":  "User Experience"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Engineer",
+                          "Industrial Designer",
+                          "Product Development Engineer",
+                          "Design Researcher",
+                          "CAD Technician"
+                      ],
+        "Name":  "Product Design"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Writer",
+                          "Documentation Specialist",
+                          "Content Developer",
+                          "Technical Author",
+                          "Editor"
+                      ],
+        "Name":  "Technical Writing"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Engineer",
+                          "Software Architect",
+                          "Quality Assurance Engineer",
+                          "DevOps Engineer",
+                          "Software Tester"
+                      ],
+        "Name":  "Software Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Designer",
+                          "Game Programmer",
+                          "Level Designer",
+                          "Game Artist",
+                          "Game Producer"
+                      ],
+        "Name":  "Game Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Engineer",
+                          "Security Analyst",
+                          "Threat Intelligence Analyst",
+                          "Cybersecurity Consultant",
+                          "Security Architect"
+                      ],
+        "Name":  "IT Security"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Sustainability Analyst",
+                          "Corporate Social Responsibility Manager",
+                          "Community Engagement Manager",
+                          "Impact Analyst"
+                      ],
+        "Name":  "Social Responsibility"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Officer",
+                          "Community Manager",
+                          "Public Affairs Specialist",
+                          "Stakeholder Relations Manager",
+                          "Outreach Coordinator"
+                      ],
+        "Name":  "Community Relations"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Fundraising Specialist",
+                          "Grant Writer",
+                          "Donor Relations Manager",
+                          "Development Officer"
+                      ],
+        "Name":  "Fundraising"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Officer",
+                          "Grant Coordinator",
+                          "Grant Analyst",
+                          "Grant Writer",
+                          "Project Manager"
+                      ],
+        "Name":  "Grant Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Event Coordinator",
+                          "Logistics Planner",
+                          "Sponsorship Manager",
+                          "Venue Coordinator"
+                      ],
+        "Name":  "Event Planning"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Travel Agent",
+                          "Travel Specialist",
+                          "Travel Operations Manager",
+                          "Travel Consultant"
+                      ],
+        "Name":  "Travel Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Supervisor",
+                          "Maintenance Technician",
+                          "Facilities Coordinator",
+                          "Facilities Analyst",
+                          "Property Manager"
+                      ],
+        "Name":  "Facilities"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Procurement Analyst",
+                          "Category Manager",
+                          "Supplier Relationship Manager",
+                          "Purchasing Agent"
+                      ],
+        "Name":  "Procurement"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Contracts Specialist",
+                          "Contract Administrator",
+                          "Contracts Officer",
+                          "Contract Coordinator"
+                      ],
+        "Name":  "Contract Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Sourcing Specialist",
+                          "Category Analyst",
+                          "Supplier Manager",
+                          "Sourcing Manager"
+                      ],
+        "Name":  "Strategic Sourcing"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Consultant",
+                          "Change Analyst",
+                          "Project Manager",
+                          "Transformation Lead",
+                          "Organizational Change Manager"
+                      ],
+        "Name":  "Change Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "OD Consultant",
+                          "Learning and Development Manager",
+                          "Organizational Analyst",
+                          "HR Business Partner"
+                      ],
+        "Name":  "Organizational Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Knowledge Coordinator",
+                          "Knowledge Officer",
+                          "Content Manager",
+                          "Information Architect"
+                      ],
+        "Name":  "Knowledge Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Performance Coach",
+                          "HR Analyst",
+                          "Performance Consultant",
+                          "Employee Engagement Specialist"
+                      ],
+        "Name":  "Performance Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Business Consultant",
+                          "Systems Analyst",
+                          "Process Analyst",
+                          "Business Intelligence Developer"
+                      ],
+        "Name":  "Business Analysis"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "IT Consultant",
+                          "Network Administrator",
+                          "Systems Architect",
+                          "Technical Support Analyst"
+                      ],
+        "Name":  "Information Technology"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Administrator",
+                          "Database Analyst",
+                          "Database Developer",
+                          "Data Architect",
+                          "Data Modeler"
+                      ],
+        "Name":  "Database Administration"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Security Engineer",
+                          "Network Security Consultant",
+                          "Cybersecurity Analyst",
+                          "Penetration Tester"
+                      ],
+        "Name":  "Network Security"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Administrator",
+                          "Systems Analyst",
+                          "Infrastructure Engineer",
+                          "Cloud Administrator",
+                          "DevOps Engineer"
+                      ],
+        "Name":  "Systems Administration"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Help Desk Technician",
+                          "Support Analyst",
+                          "Customer Support Manager",
+                          "Technical Support Engineer"
+                      ],
+        "Name":  "Technical Support"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Application Analyst",
+                          "Technical Support Analyst",
+                          "Software Support Specialist",
+                          "Product Support Specialist"
+                      ],
+        "Name":  "Application Support"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Operations Coordinator",
+                          "Process Improvement Manager",
+                          "Logistics Manager",
+                          "Supply Chain Manager"
+                      ],
+        "Name":  "Operations Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Technician",
+                          "Operations Supervisor",
+                          "Facilities Engineer",
+                          "Maintenance Manager",
+                          "Operations Coordinator"
+                      ],
+        "Name":  "Facility Operations"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Technician",
+                          "Telecom Analyst",
+                          "Network Engineer",
+                          "Telecom Project Manager",
+                          "Communications Technician"
+                      ],
+        "Name":  "Telecommunications"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Content Strategist",
+                          "Content Editor",
+                          "Content Producer",
+                          "Digital Content Manager"
+                      ],
+        "Name":  "Content Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Data Analyst",
+                          "Market Research Analyst",
+                          "Policy Analyst",
+                          "Research Coordinator"
+                      ],
+        "Name":  "Research Analyst"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Technician",
+                          "Help Desk Specialist",
+                          "Support Engineer",
+                          "Technical Consultant",
+                          "Customer Support Specialist"
+                      ],
+        "Name":  "User Support"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Audit Coordinator",
+                          "Compliance Auditor",
+                          "Quality Auditor",
+                          "Internal Auditor"
+                      ],
+        "Name":  "Compliance Audit"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Data Steward",
+                          "Data Governance Officer",
+                          "Information Governance Manager",
+                          "Data Compliance Specialist"
+                      ],
+        "Name":  "Data Governance"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Financial Planner",
+                          "Financial Advisor",
+                          "Investment Analyst",
+                          "Portfolio Manager"
+                      ],
+        "Name":  "Financial Planning"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Asset Manager",
+                          "Investment Analyst",
+                          "Portfolio Analyst",
+                          "Real Estate Analyst"
+                      ],
+        "Name":  "Asset Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Actuary",
+                          "Risk Analyst",
+                          "Insurance Analyst",
+                          "Pension Consultant"
+                      ],
+        "Name":  "Actuarial"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "BI Developer",
+                          "BI Consultant",
+                          "Data Warehouse Analyst",
+                          "Reporting Analyst"
+                      ],
+        "Name":  "Business Intelligence"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Market Researcher",
+                          "Consumer Insights Analyst",
+                          "Research Manager",
+                          "Data Analyst"
+                      ],
+        "Name":  "Marketing Research"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Audience Analyst",
+                          "Engagement Coordinator",
+                          "Marketing Coordinator",
+                          "Community Manager"
+                      ],
+        "Name":  "Audience Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Loyalty Program Analyst",
+                          "Customer Loyalty Specialist",
+                          "Retention Manager",
+                          "Rewards Program Manager"
+                      ],
+        "Name":  "Loyalty Programs"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Affiliate Manager",
+                          "Affiliate Coordinator",
+                          "Program Manager",
+                          "Partnership Manager"
+                      ],
+        "Name":  "Affiliate Programs"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Merchandise Planner",
+                          "Visual Merchandiser",
+                          "Retail Manager",
+                          "Category Manager"
+                      ],
+        "Name":  "Merchandising"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Pricing Analyst",
+                          "Revenue Manager",
+                          "Market Analyst",
+                          "Strategy Manager"
+                      ],
+        "Name":  "Pricing Strategy"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Brand Strategist",
+                          "Brand Development Manager",
+                          "Marketing Manager",
+                          "Communications Manager"
+                      ],
+        "Name":  "Brand Strategy"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Communications Coordinator",
+                          "Internal Communications Manager",
+                          "Public Relations Manager",
+                          "Media Relations Specialist"
+                      ],
+        "Name":  "Corporate Communications"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Crisis Coordinator",
+                          "Communications Manager",
+                          "Crisis Response Manager",
+                          "Public Affairs Specialist"
+                      ],
+        "Name":  "Crisis Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Officer",
+                          "Public Affairs Specialist",
+                          "Government Relations Manager",
+                          "Public Relations Officer",
+                          "Lobbyist"
+                      ],
+        "Name":  "Public Affairs"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Policy Advisor",
+                          "Government Affairs Manager",
+                          "Policy Research Analyst",
+                          "Advocacy Manager"
+                      ],
+        "Name":  "Public Policy"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Officer",
+                          "International Affairs Specialist",
+                          "Global Relations Manager",
+                          "Diplomatic Officer",
+                          "Policy Analyst"
+                      ],
+        "Name":  "International Relations"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Diplomat",
+                          "Foreign Affairs Officer",
+                          "International Relations Analyst",
+                          "Consular Officer"
+                      ],
+        "Name":  "Diplomacy"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Advocacy Specialist",
+                          "Campaign Manager",
+                          "Community Organizer",
+                          "Outreach Coordinator"
+                      ],
+        "Name":  "Advocacy"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Regulatory Specialist",
+                          "Compliance Manager",
+                          "Regulatory Affairs Officer",
+                          "Policy Analyst"
+                      ],
+        "Name":  "Regulatory Affairs"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Inspector",
+                          "Quality Analyst",
+                          "Quality Engineer",
+                          "Quality Manager",
+                          "Compliance Inspector"
+                      ],
+        "Name":  "Quality Control"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Support Technician",
+                          "IT Support Analyst",
+                          "Customer Support Engineer",
+                          "Technical Consultant"
+                      ],
+        "Name":  "Technical Support"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Distribution Analyst",
+                          "Logistics Supervisor",
+                          "Warehouse Manager",
+                          "Shipping Coordinator"
+                      ],
+        "Name":  "Distribution Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Operations Research Analyst",
+                          "Data Scientist",
+                          "Process Improvement Analyst",
+                          "Decision Scientist"
+                      ],
+        "Name":  "Operations Research"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Inventory Specialist",
+                          "Stock Manager",
+                          "Warehouse Coordinator",
+                          "Inventory Clerk"
+                      ],
+        "Name":  "Inventory Control"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "CX Analyst",
+                          "Customer Experience Manager",
+                          "User Experience Researcher",
+                          "Customer Success Manager"
+                      ],
+        "Name":  "Customer Experience"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Coordinator",
+                          "Engagement Specialist",
+                          "Community Manager",
+                          "User Engagement Analyst",
+                          "Social Media Manager"
+                      ],
+        "Name":  "User Engagement"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Sales Coordinator",
+                          "Sales Enablement Manager",
+                          "Sales Support Specialist",
+                          "Revenue Operations Manager"
+                      ],
+        "Name":  "Sales Operations"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Training Coordinator",
+                          "Sales Trainer",
+                          "Onboarding Specialist",
+                          "Learning and Development Manager"
+                      ],
+        "Name":  "Sales Training"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Channel Coordinator",
+                          "Channel Development Manager",
+                          "Partner Manager",
+                          "Channel Sales Specialist"
+                      ],
+        "Name":  "Channel Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Marketing Strategist",
+                          "Market Research Analyst",
+                          "Brand Strategist",
+                          "Competitive Analyst"
+                      ],
+        "Name":  "Market Strategy"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Market Intelligence Specialist",
+                          "Data Analyst",
+                          "Market Researcher",
+                          "Competitive Intelligence Manager"
+                      ],
+        "Name":  "Market Intelligence"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Lead Generation Analyst",
+                          "Sales Development Representative",
+                          "Prospecting Specialist",
+                          "Marketing Coordinator"
+                      ],
+        "Name":  "Lead Generation"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Business Operations Specialist",
+                          "Operations Coordinator",
+                          "Process Manager",
+                          "Efficiency Consultant"
+                      ],
+        "Name":  "Business Operations"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Consultant",
+                          "Digital Analyst",
+                          "Business Analyst",
+                          "Change Manager",
+                          "Technology Strategist"
+                      ],
+        "Name":  "Digital Transformation"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Engineer",
+                          "QA Tester",
+                          "Test Automation Engineer",
+                          "Software Quality Assurance Manager",
+                          "Test Lead"
+                      ],
+        "Name":  "Software Testing"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Engineer",
+                          "Software Developer",
+                          "QA Engineer",
+                          "Technical Lead",
+                          "Software Architect"
+                      ],
+        "Name":  "Code Review"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Release Engineer",
+                          "Deployment Manager",
+                          "Change Manager",
+                          "Build Engineer"
+                      ],
+        "Name":  "Release Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Architect",
+                          "Systems Architect",
+                          "Enterprise Architect",
+                          "Infrastructure Architect",
+                          "Cloud Architect"
+                      ],
+        "Name":  "IT Architecture"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Developer",
+                          "Application Engineer",
+                          "Software Engineer",
+                          "Full Stack Developer",
+                          "Mobile App Developer"
+                      ],
+        "Name":  "Application Development"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Architect",
+                          "Cloud Engineer",
+                          "Cloud Consultant",
+                          "Cloud Operations Manager",
+                          "DevOps Engineer"
+                      ],
+        "Name":  "Cloud Solutions"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Digital Marketing Manager",
+                          "Digital Strategist",
+                          "Content Marketing Specialist",
+                          "SEO Strategist"
+                      ],
+        "Name":  "Digital Strategy"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Officer",
+                          "Data Privacy Specialist",
+                          "Compliance Analyst",
+                          "Data Protection Officer",
+                          "Risk Analyst"
+                      ],
+        "Name":  "Data Privacy"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Incident Analyst",
+                          "Incident Response Manager",
+                          "Service Desk Manager",
+                          "IT Service Manager"
+                      ],
+        "Name":  "Incident Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Disaster Recovery Specialist",
+                          "Business Continuity Manager",
+                          "Crisis Manager",
+                          "Continuity Analyst"
+                      ],
+        "Name":  "Disaster Recovery"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Analyst",
+                          "Service Delivery Manager",
+                          "IT Service Analyst",
+                          "Service Desk Analyst",
+                          "Process Manager"
+                      ],
+        "Name":  "Service Management"
+    },
+    {
+        "Positions":  [
+                          "Manager",
+                          "Specialist",
+                          "Vendor Analyst",
+                          "Supplier Manager",
+                          "Vendor Relations Manager",
+                          "Procurement Manager"
+                      ],
+        "Name":  "Vendor Management"
+    }
+]

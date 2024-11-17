@@ -1,0 +1,3 @@
+"StreetAddress","AccountPassword","Country","SamAccountName","ChangePasswordAtLogon","GivenName","ErrorAction","Surname","Department","Title","PostalCode","Path","State","Displayname","City","Name","UserPrincipalName","Enabled"
+"123 Main St","P@ssw0rd123","USA","jdoe","False","John","SilentlyContinue","Doe","Engineering","Software Engineer","10001","OU=Tabby,DC=ltspit,DC=lab","NY","John Doe","New York","John Doe","Doe.do@ltspit.lab","True"
+"456 Market St","P@ssw0rd123","USA","jsmith","False","Jane","SilentlyContinue","Smith","Marketing","Marketing Manager","94105","OU=Tabby,DC=ltspit,DC=lab","CA","Jane Smith","San Francisco","Jane Smith","Smith.sm@ltspit.lab","True"

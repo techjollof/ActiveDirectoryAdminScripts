@@ -1,0 +1,4 @@
+"StreetAddress","AccountPassword","Country","SamAccountName","ChangePasswordAtLogon","GivenName","ErrorAction","Surname","Department","Title","PostalCode","Path","State","Displayname","City","Name","UserPrincipalName","Enabled"
+"789 State St","P@ssw0rd123","USA","rbrown","False","Robert","SilentlyContinue","Brown","Sales","Sales Executive","60601","OU=Tabby,DC=ltspit,DC=lab","IL","Robert Brown","Chicago","Robert Brown","Brown.br@ltspit.lab","True"
+"101 Beacon St","M/xAb]b6$_AA","USA","edavis","False","Emily","SilentlyContinue","Davis","Finance","Financial Analyst","02108","OU=Tabby,DC=ltspit,DC=lab","MA","Emily Davis","Boston","Emily Davis","Davis.da@ltspit.lab","True"
+"202 Pine St","P@ssw0rd123","USA","mjohnson","False","Michael","SilentlyContinue","Johnson","HR","HR Specialist","98101","OU=Tabby,DC=ltspit,DC=lab","WA","Michael Johnson","Seattle","Michael Johnson","Johnson.jo@ltspit.lab","True"

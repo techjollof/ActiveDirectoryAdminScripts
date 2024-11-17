@@ -1,0 +1,85 @@
+Marketing,Global,Distribution
+Finance,Global,Security
+Accounting,Global,Security
+Engineering,Global,Distribution
+Information Technology,Global,Security
+Purchasing,Global,Distribution
+Sales,Global,Distribution
+Shipping,Global,Distribution
+Warehouse,Global,Distribution
+File Share Admin,Universal,Security
+File Share F Drive,Universal,Distribution
+File Share G Drive,Universal,Distribution
+File Share H Drive,Universal,Distribution
+File Share J Drive,Universal,Distribution
+Printer Access,Universal,Security
+MFP Access,Universal,Security
+ERP Admin,Universal,Security
+ERP Payment Access,Universal,Security
+ERP Sales,Universal,Distribution
+ERP Read,Universal,Security
+Sales Report Admin,Universal,Security
+Sales Report Read,Universal,Distribution
+Inventory Report Admin,Universal,Security
+Inventory Report Read,Universal,Distribution
+PLM Admin,Universal,Security
+PLM RW,DomainLocal,Distribution
+PLM Read,Universal,Distribution
+Server Admin,Universal,Security
+Desktop Admin,Universal,Security
+Merch App Admin,Universal,Security
+Merch App Read,Universal,Distribution
+Shared Calendar Admin,Universal,Security
+Shared Calendar RW,DomainLocal,Distribution
+Shared Calendar Read,Universal,Distribution
+R&D,Global,Distribution
+Customer Service,Global,Distribution
+Legal,Global,Security
+Compliance,Global,Security
+HR,Global,Distribution
+Marketing Communications,Global,Distribution
+Product Development,Global,Distribution
+Quality Assurance,Global,Security
+Business Development,Global,Distribution
+Public Relations,Global,Distribution
+Risk Management,Global,Security
+Corporate Strategy,Global,Distribution
+Training and Development,Global,Distribution
+Facilities Management,Global,Distribution
+IT Support,Global,Security
+Data Analytics,Global,Distribution
+E-commerce,Global,Distribution
+Digital Marketing,Global,Distribution
+Supply Chain,Global,Distribution
+Technical Support,Global,Security
+SCCM Admins,Universal,Security
+SCCM Read-Only,Universal,Security
+Intune Admins,Universal,Security
+Intune Read-Only,Universal,Security
+Device Compliance,Universal,Security
+Application Management,Universal,Security
+Patch Management,Universal,Security
+Device Inventory,Universal,Distribution
+Software Distribution,Universal,Distribution
+Endpoint Protection,Universal,Security
+Remote Support,Universal,Security
+User Device Policy,Universal,Security
+Mobile Device Management,Universal,Security
+Desktop Management,Universal,Security
+Configuration Profiles,Universal,Security
+Application Deployment,Universal,Distribution
+OS Deployment,Universal,Security
+Monitoring and Reporting,Universal,Distribution
+Device Enrollment,Universal,Security
+Security Baselines,Universal,Security
+Access Management,Universal,Security
+Group Policy Management,Universal,Security
+User Experience Management,Universal,Distribution
+Network Management,Universal,Security
+Cloud Management,Universal,Security
+Device Health Attestation,Universal,Security
+Compliance Policies,Universal,Security
+Autopilot Deployment,Universal,Security
+Enrollment Status Page,Universal,Security
+Telemetry and Analytics,Universal,Distribution
+Conditional Access,Universal,Security

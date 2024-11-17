@@ -1,0 +1,2035 @@
+﻿City,Street,State,PostalCode,Country
+BETTWS NEWYDD,33 Northgate Street,Eng,BD233BB,GH
+BIGHY,89 Northgate Street,Eng,PH88JX,GH
+OLD RAYNE,44 Horsefair Green,Eng,BA122QR,GH
+Aachen,Kapellenstr 15-19,Nordrhein-Westfalen,52078,GH
+Aachen,Steinkaulplatz 12,Nordrhein-Westfalen,52078,GH
+Aachen,Trierer Str 366,Nordrhein-Westfalen,52078,GH
+Amsterdam,Claude Debussylaan 34,Noord Holland,1082 MD,NL
+Berlin,Tucholskystrae 2,Bradenburg,10117,DE
+Aachen,Kapellenstr 15-19,Nordrhein-Westfalen,52066,DE
+Aachen,Steinkaulplatz 12,Nordrhein-Westfalen,52076,DE
+Aachen,Trierer Str 366,Nordrhein-Westfalen,52078,DE
+Aachen,Roermonder Str 325,Nordrhein-Westfalen,52072,DE
+Aachen,Peterstr 46,Nordrhein-Westfalen,52062,DE
+Aachen,Adalbertsteinweg 11-15,Nordrhein-Westfalen,52070,DE
+Aachen,Kronenberg 155,Nordrhein-Westfalen,52074,DE
+Aachen,Heerlener Str 30,Nordrhein-Westfalen,52074,DE
+Aachen,Jülicher Str 63,Nordrhein-Westfalen,52070,DE
+Abensberg,Straubinger Str 42,Bayern,93326,DE
+Achim,Friedrichstr 39-41,Niedersachsen,28832,DE
+Achim,Uphuser Heerstr 50,Niedersachsen,28832,DE
+Adelebsen,Lange Str 40-44,Niedersachsen,37139,DE
+Adenau,Markt 1,Rheinland-Pfalz,53518,DE
+Aerzen,Blankschmiede 2,Niedersachsen,31855,DE
+Ahaus,Coesfelder Str 68,Nordrhein-Westfalen,48683,DE
+Ahaus,Kirchstr 18,Nordrhein-Westfalen,48683,DE
+Ahausen,Hauptstr 30,Niedersachsen,27367,DE
+Ahlen,Hauptstr 49,Nordrhein-Westfalen,59227,DE
+Ahlerstedt,Büntweg 1,Niedersachsen,21702,DE
+Ahnatal,Hauptstr 19,Hessen,34292,DE
+Ahrensfelde,Mc-Donald'S-Str 3,Brandenburg,16356,DE
+Aichach,Stadtplatz 20,Bayern,86551,DE
+Aichtal,Häfnerstr 23,Baden-Württemberg,72631,DE
+Aitrach,Hauptstr 35,Baden-Württemberg,88319,DE
+Albstadt,Kirchengraben 6-8,Baden-Württemberg,72458,DE
+Aachen,Kapellenstr 15-19,Nordrhein-Westfalen,52066,DE
+Aachen,Steinkaulplatz 12,Nordrhein-Westfalen,52076,DE
+Aachen,Trierer Str 366,Nordrhein-Westfalen,52078,DE
+Aachen,Roermonder Str 325,Nordrhein-Westfalen,52072,DE
+Aachen,Peterstr 46,Nordrhein-Westfalen,52062,DE
+Aachen,Adalbertsteinweg 11-15,Nordrhein-Westfalen,52070,DE
+Aachen,Kronenberg 155,Nordrhein-Westfalen,52074,DE
+Aachen,Heerlener Str 30,Nordrhein-Westfalen,52074,DE
+Aachen,Jülicher Str 63,Nordrhein-Westfalen,52070,DE
+Abensberg,Straubinger Str 42,Bayern,93326,DE
+Achim,Friedrichstr 39-41,Niedersachsen,28832,DE
+Achim,Uphuser Heerstr 50,Niedersachsen,28832,DE
+Adelebsen,Lange Str 40-44,Niedersachsen,37139,DE
+Adenau,Markt 1,Rheinland-Pfalz,53518,DE
+Aerzen,Blankschmiede 2,Niedersachsen,31855,DE
+Ahaus,Coesfelder Str 68,Nordrhein-Westfalen,48683,DE
+Ahaus,Kirchstr 18,Nordrhein-Westfalen,48683,DE
+Ahausen,Hauptstr 30,Niedersachsen,27367,DE
+Ahlen,Hauptstr 49,Nordrhein-Westfalen,59227,DE
+Ahlerstedt,Büntweg 1,Niedersachsen,21702,DE
+Ahnatal,Hauptstr 19,Hessen,34292,DE
+Ahrensfelde,Mc-Donald'S-Str 3,Brandenburg,16356,DE
+Aichach,Stadtplatz 20,Bayern,86551,DE
+Aichtal,Häfnerstr 23,Baden-Württemberg,72631,DE
+Aitrach,Hauptstr 35,Baden-Württemberg,88319,DE
+Albstadt,Kirchengraben 6-8,Baden-Württemberg,72458,DE
+Albstadt,Ebingertalstr 52-56,Baden-Württemberg,72459,DE
+Aldenhoven,Alte-Turmstr 8,Nordrhein-Westfalen,52457,DE
+Alfhausen,Hauptstr 1,Niedersachsen,49594,DE
+Alfter,Am Rathaus 13,Nordrhein-Westfalen,53347,DE
+Alfter,Hauptstr 232,Nordrhein-Westfalen,53347,DE
+Algermissen,Marktstr 30,Niedersachsen,31191,DE
+Allensbach,Hafnerstr 4,Baden-Württemberg,78476,DE
+Alsdorf,Bahnhofstr 65,Nordrhein-Westfalen,52477,DE
+Alsdorf,Blumenrather Str 74-76,Nordrhein-Westfalen,52477,DE
+Alsenz,Hauptstr 35,Rheinland-Pfalz,67821,DE
+Alsleben,Saaleplatz 5,Sachsen-Anhalt,06425,DE
+Altdöbern,Bahnhofstr 26,Brandenburg,03229,DE
+Altdorf,Holzgerlinger Str 18,Baden-Württemberg,71155,DE
+Altena,Am Stapel 2-14,Nordrhein-Westfalen,58762,DE
+Altena,Lennestr 68-78,Nordrhein-Westfalen,58762,DE
+Altena,Bergfelder Weg 24,Nordrhein-Westfalen,58762,DE
+Altenau,Breite Str 4,Niedersachsen,38707,DE
+Altenberg,Dresdnerstr 11,Sachsen,01773,DE
+Altenburg,Geraer Str 72-76,Thüringen,04600,DE
+Altenholz,Ostpreußenplatz 5,Schleswig-Holstein,24161,DE
+Altenkirchen,Wilhelmstr 11-13,Rheinland-Pfalz,57610,DE
+Altensteig,Bahnhofstr 30,Baden-Württemberg,72213,DE
+Altentreptow,Grüner Gang 1A,Mecklenburg-Vorpommern,17087,DE
+Althengstett,Hauptstr 12-14,Baden-Württemberg,75382,DE
+Altlandsberg,Berliner Allee 37D,Brandenburg,15345,DE
+Altlußheim,Hauptstr 55,Baden-Württemberg,68804,DE
+Altmittweida,Neusorger Str 30,Sachsen,09648,DE
+Amerang,Bahnhofstr 7,Bayern,83123,DE
+Ammerndorf,Bahnhofsplatz 4,Bayern,90614,DE
+Andernach,Bahnhofstr 16,Rheinland-Pfalz,56626,DE
+Angermünde,Berliner Str 65-67,Brandenburg,16278,DE
+Angermünde,Grundmühlenweg 13,Brandenburg,16278,DE
+Angern,Alte Dorfstr 7,Sachsen-Anhalt,39326,DE
+Annweiler,Hauptstr 21,Rheinland-Pfalz,76855,DE
+Apen,Hauptstr 129,Niedersachsen,26689,DE
+Apensen,Buxtehuder Str 13,Niedersachsen,21641,DE
+Apolda,Leutloffstr 44,Thüringen,99510,DE
+Appen,Eekhoff 1,Schleswig-Holstein,25482,DE
+Arnsberg,Auf Dem Kumpe 4,Nordrhein-Westfalen,59757,DE
+Arnsberg,Voßwinkeler Str 9,Nordrhein-Westfalen,59757,DE
+Arnstorf,Marktplatz 10,Bayern,94424,DE
+Artern/Unstrut,Alte Poststr 2,Thüringen,06556,DE
+Aschaffenburg,Burchardtstr 28,Bayern,63741,DE
+Aschaffenburg,Ludwigstr 9,Bayern,63739,DE
+Aschau,Kampenwandstr 26,Bayern,83229,DE
+Aschersleben,Oberstr 50,Sachsen-Anhalt,06449,DE
+Aschheim,Erdinger Str 1,Bayern,85609,DE
+Assamstadt,Mergentheimer Str 7,Baden-Württemberg,97959,DE
+Attendorn,Am Kleinen Graben 1,Nordrhein-Westfalen,57439,DE
+Attendorn,Kampstr 38,Nordrhein-Westfalen,57439,DE
+Aue,Schwarzenberger Str 7,Sachsen,08280,DE
+Auerbach,Unterer Markt 6,Bayern,91275,DE
+Auerbach,Reumtengrüner Str 39,Sachsen,08209,DE
+Augsburg,Holzweg 55,Bayern,86156,DE
+Augsburg,Viktoria-Str 3-9,Bayern,86150,DE
+Augsburg,Jakoberstr 20,Bayern,86152,DE
+Augsburg,Donauwörther Str 153,Bayern,86154,DE
+Augsburg,Eberlestr 2,Bayern,86157,DE
+Aulendorf,Bachstr 5-9,Baden-Württemberg,88326,DE
+Baar-Ebenhausen,Ingolstädter Str 28,Bayern,85107,DE
+Backnang,Marktstr 16,Baden-Württemberg,71522,DE
+Bad Abbach,Gutenbergring 1-3,Bayern,93077,DE
+Bad Aibling,Marienplatz 9,Bayern,83043,DE
+Bad Arolsen,Varnhagenstr 4,Hessen,34454,DE
+Bad Bederkesa,Mattenburger Str 14,Niedersachsen,27624,DE
+Bad Belzig,Brücker Landstr 1 C,Brandenburg,14806,DE
+Bad Bergzabern,Bärengasse 7-11,Rheinland-Pfalz,76887,DE
+Bad Bevensen,Bahnhofstr 6,Niedersachsen,29549,DE
+Bad Bibra,Lauchaerstr 36,Sachsen-Anhalt,06647,DE
+Bad Blankenburg,Obere Marktstr 6,Thüringen,07422,DE
+Bad Driburg,Lange Str 106,Nordrhein-Westfalen,33014,DE
+Bad Düben,Windmühlenweg 1,Sachsen,04849,DE
+Bad Dürkheim,Römerstr 14,Rheinland-Pfalz,67098,DE
+Bad Ems,Mainzer Str 8,Rheinland-Pfalz,56130,DE
+Bad Endbach,Am Kurpark 2,Hessen,35080,DE
+Bad Endorf,Bahnhofstr 21 A,Bayern,83093,DE
+Bad Endorf,Gewerbegebiet 5,Bayern,83093,DE
+Bad Essen,Lerchenstr 33,Niedersachsen,49152,DE
+Bad Harzburg,Herzog-Wilhelm-Str 43,Niedersachsen,38667,DE
+Bad Harzburg,Klagestr 9 C,Niedersachsen,38667,DE
+Bad Hersfeld,Badestube 3,Hessen,36251,DE
+Bad Hindelang,Marktstr 25,Bayern,87541,DE
+Bad Homburg,Louisenstr 30,Hessen,61348,DE
+Bad Iburg,Fuchsbreite 17 A,Niedersachsen,49186,DE
+Bad Karlshafen,Am Rechten Weserufer 1,Hessen,34385,DE
+Bad Kleinen,Am Turmhaus 10,Mecklenburg-Vorpommern,23996,DE
+Bad Königshofen,Industriestr 37,Bayern,97631,DE
+Bad Kreuznach,Holzmarkt 16,Rheinland-Pfalz,55545,DE
+Bad Laer,Brinkstr 1,Niedersachsen,49196,DE
+Bad Langensalza,Poststr 11,Thüringen,99947,DE
+Bad Lauterberg,Hauptstr 140,Niedersachsen,37431,DE
+Bad Liebenwerda,Berliner Str 66,Brandenburg,04924,DE
+Bad Mergentheim,Bahnhofstr 10,Baden-Württemberg,97980,DE
+Bad Münster,Zur Alsenz 3-5,Rheinland-Pfalz,55583,DE
+Bad Münstereifel,Wertherstr 4,Nordrhein-Westfalen,53902,DE
+Bad Nenndorf,Hauptstr 12,Niedersachsen,31542,DE
+Bad Oeynhausen,Eidinghausener Str 146,Nordrhein-Westfalen,32549,DE
+Bad Oeynhausen,Halsternerstr 28,Nordrhein-Westfalen,32549,DE
+Bad Peterstal-Griesbach,Renchtalstr 3,Baden-Württemberg,77740,DE
+Bad Reichenhall,Reichenbachstr 9,Bayern,83435,DE
+Bad Sachsa,Marktstr 10-11,Niedersachsen,37441,DE
+Bad Säckingen,Rheinbrückstr 23,Baden-Württemberg,79713,DE
+Bad Salzdetfurth,Unterstr 59-60,Niedersachsen,31162,DE
+Bad Salzuflen,Bielefelder Str 36 B,Nordrhein-Westfalen,32107,DE
+Bad Schlema,Marktpassage 25,Sachsen,08301,DE
+Bad Schmiedeberg,Schmiedeberger Str 23-27,Sachsen-Anhalt,06909,DE
+Bad Segeberg,Oldesloer Str 13,Schleswig-Holstein,23795,DE
+Bad Segeberg,Kurhausstr 42,Schleswig-Holstein,23795,DE
+Bad Soden,Königsteiner Str 45,Hessen,65812,DE
+Bad Soden,Adlerstr 1,Hessen,65812,DE
+Bad Suderode,Markt 1,Sachsen-Anhalt,06507,DE
+Bad Urach,Wilhelmsplatz 3,Baden-Württemberg,72574,DE
+Bad Wildungen,Brunnenstr 58,Hessen,34537,DE
+Bad Wörishofen,Hauptstr 28,Bayern,86825,DE
+Bad Wurzach,Herrenstr 11,Baden-Württemberg,88410,DE
+Baden-Baden,Lichtentaler Str 66,Baden-Württemberg,76530,DE
+Baden-Baden,Rheinstr 17,Baden-Württemberg,76532,DE
+Baden-Baden,Steinbacher Str 43,Baden-Württemberg,76534,DE
+Baesweiler,Reyplatz 10,Nordrhein-Westfalen,52499,DE
+Bahlingen,Hauptstr 23,Baden-Württemberg,79353,DE
+Baienfurt,Niederbieger Str 1,Baden-Württemberg,88255,DE
+Bakum,Sütholter Str 3,Niedersachsen,49456,DE
+Bamberg,Kapuzinerstr 34,Bayern,96047,DE
+Bamberg,Graf-Stauffenberg-Platz 5-9,Bayern,96047,DE
+Bamberg,Kunigundendamm 31,Bayern,96050,DE
+Bamberg,Luitpoldstr 37,Bayern,96052,DE
+Bamberg,An Der Breitenau 2,Bayern,96052,DE
+Bannewitz,Kastanienallee 2B,Sachsen,01728,DE
+Barby,Calbenser Str 3,Sachsen-Anhalt,39249,DE
+Barleben,Ebendorfer Str 19,Sachsen-Anhalt,39179,DE
+Barnstorf,Kampstr 24,Niedersachsen,49406,DE
+Barßel,Dorfstr 24,Niedersachsen,26676,DE
+Barth,Lange Str 47,Mecklenburg-Vorpommern,18356,DE
+Baunach,Überkumstr 11,Bayern,96148,DE
+Baunatal,Dachsbergstr 8,Hessen,34225,DE
+Bautzen,Dresdner Str 49 D,Sachsen,02625,DE
+Bawinkel,Lingener Str 16,Niedersachsen,49844,DE
+Bayreuth,Kemnather Str 27 A,Bayern,95448,DE
+Bayreuth,Donndorfer Str 2,Bayern,95447,DE
+Beelen,Warendorferstr 35,Nordrhein-Westfalen,48361,DE
+Beelitz,Treuenbrietzener Str 17,Brandenburg,14547,DE
+Beilrode,Bahnhofstr 3,Sachsen,04886,DE
+Bendorf,Hauptstr 75,Rheinland-Pfalz,56170,DE
+Bennewitz,Leipzigerstr 24,Sachsen,04828,DE
+Benshausen,Hauptstr 10,Thüringen,98554,DE
+Beratzhausen,Laaberer Str 12,Bayern,93176,DE
+Bergatreute,Roßberger Str 15,Baden-Württemberg,88368,DE
+Bergen,Bahnhofstr 28,Bayern,83346,DE
+Bergen,Dammstr 18A,Mecklenburg-Vorpommern,18528,DE
+Bergheim,Hauptstr 51-53,Nordrhein-Westfalen,50126,DE
+Bergheim,Hohe Str 14,Nordrhein-Westfalen,50129,DE
+Bergheim,Dormagener Str 41-43,Nordrhein-Westfalen,50129,DE
+Bergheim,Büsdorfer Str 5,Nordrhein-Westfalen,50129,DE
+Bergheim,Fischbachstr 31-33,Nordrhein-Westfalen,50127,DE
+Bergisch,Dellbrückerstr 57-59,Nordrhein-Westfalen,51469,DE
+Bergisch,Ball 44,Nordrhein-Westfalen,51429,DE
+Bergisch,Moitzfeld 74,Nordrhein-Westfalen,51429,DE
+Bergkamen,Jahnstr 99-101,Nordrhein-Westfalen,59192,DE
+Bergkamen,Schulstr 40-42,Nordrhein-Westfalen,59192,DE
+Bergtheim,Oberpleichfelder Str 4,Bayern,97241,DE
+Berkheim,Hauptstr 51,Baden-Württemberg,88450,DE
+Berlin,Dörpfeldstr 31,Berlin,12489,DE
+Berlin,Ehrenfelder Platz 1,Berlin,12524,DE
+Berlin,Berliner Str 94,Berlin,13507,DE
+Berlin,Germaniapromenade 10,Berlin,12347,DE
+Berlin,Zepernicker Str 10,Berlin,13125,DE
+Berlin,Marienfelder Chaussee 145,Berlin,12349,DE
+Berlin,Marienfelder Chaussee 142,Berlin,12349,DE
+Berlin,Spandauer Damm 73,Berlin,14059,DE
+Berlin,Kantstr 15-16,Berlin,10623,DE
+Berlin,Meinekestr 23,Berlin,10719,DE
+Berlin,Kantstr 71,Berlin,10627,DE
+Berlin,Wilmersdorfer Str 70,Berlin,10629,DE
+Berlin,Friedbergstr 23,Berlin,14057,DE
+Berlin,Halemweg 21,Berlin,13627,DE
+Berlin,Reichsstr 37,Berlin,14052,DE
+Berlin,Landsberger Allee 54-56 A,Berlin,10249,DE
+Berlin,Ebertystr 35,Berlin,10249,DE
+Berlin,Zeltinger Platz 15,Berlin,13465,DE
+Berlin,Riesaer Str 102A-C,Berlin,12627,DE
+Berlin,Stollberger Str 55-57,Berlin,12627,DE
+Berlin,Rotkamp 2-6,Berlin,13053,DE
+Berlin,Landsberger Allee 217 E,Berlin,13055,DE
+Berlin,Ludwigsluster Str 27,Berlin,12619,DE
+Berlin,Mädewalder Weg 44-48,Berlin,12621,DE
+Berlin,Müggelschlößchenweg 40,Berlin,12559,DE
+Berlin,Friedrichstr 211-216,Berlin,10969,DE
+Berlin,Ritterstr 43,Berlin,10969,DE
+Berlin,Belßstr 65,Berlin,12249,DE
+Berlin,Anton-Saefkow-Platz 12,Berlin,10369,DE
+Berlin,Mariendorfer Damm 292-298,Berlin,12107,DE
+Berlin,Hildburghauser Str 29,Berlin,12279,DE
+Berlin,Marzahner Promenade 28,Berlin,12679,DE
+Berlin,Allee Der Kosmonauten 151,Berlin,12685,DE
+Berlin,Oberweißbacher Str 7-9,Berlin,12687,DE
+Berlin,Gertraudenstr 18,Berlin,10178,DE
+Berlin,Chausseestr 131,Berlin,10115,DE
+Berlin,Ackerstr 3,Berlin,10115,DE
+Berlin,Schillingstr 1,Berlin,10179,DE
+Berlin,Sonnenallee 76,Berlin,12045,DE
+Berlin,Karl-Marx-Str 170,Berlin,12043,DE
+Berlin,Kottbusser Damm 93,Berlin,10967,DE
+Berlin,Sonnenallee 39,Berlin,12045,DE
+Berlin,Sonnenallee 116,Berlin,12045,DE
+Berlin,Hermannstr 214-216,Berlin,12049,DE
+Berlin,Schnellerstr 88-90,Berlin,12439,DE
+Berlin,Wiesenschlag 4,Berlin,14129,DE
+Berlin,Wilhelminenhofstr 34,Berlin,12459,DE
+Berlin,Damerowstr 40,Berlin,13187,DE
+Berlin,Wollankstr 1-1A,Berlin,13187,DE
+Berlin,Conrad-Blenkle-Str 29,Berlin,10407,DE
+Berlin,Käthe-Niederkirchner-Str 37-41,Berlin,10407,DE
+Berlin,Erich-Weinert-Str 53,Berlin,10439,DE
+Berlin,Eichborndamm 43-45,Berlin,13403,DE
+Berlin,Residenzstr 156,Berlin,13409,DE
+Berlin,Residenzstr 32,Berlin,13409,DE
+Berlin,Auguste-Viktoria-Allee 4,Berlin,13403,DE
+Berlin,Grunewaldstr 50,Berlin,10825,DE
+Berlin,Einemstr 11,Berlin,10787,DE
+Berlin,Sparnecker Weg 1,Berlin,14089,DE
+Berlin,Pichelsdorfer Str 53,Berlin,13595,DE
+Berlin,Steglitzer Damm 96-96B,Berlin,12169,DE
+Berlin,Albrechtstr 14,Berlin,12167,DE
+Berlin,Bismarckstr 63,Berlin,12169,DE
+Berlin,Mariendorfer Damm 53-55,Berlin,12109,DE
+Berlin,Arminiushalle 2,Berlin,10551,DE
+Berlin,Jagowstr 10,Berlin,10555,DE
+Berlin,Alt Moabit 98,Berlin,10559,DE
+Berlin,Rinkardstr 36,Berlin,12437,DE
+Berlin,Brunnenstr 128,Berlin,13355,DE
+Berlin,Oudenarder Str 16,Berlin,13347,DE
+Berlin,Müllerstr 141,Berlin,13353,DE
+Berlin,Müllerstr 82-83,Berlin,13349,DE
+Berlin,Soldiner Str 65-66,Berlin,13359,DE
+Berlin,Pistoriusstr 112-114,Berlin,13086,DE
+Berlin,Buschallee 88,Berlin,13088,DE
+Berlin,Berliner Allee 69,Berlin,13088,DE
+Berlin,Schönblicker Str 2-4,Berlin,12589,DE
+Berlin,Westfälische Str 81,Berlin,10709,DE
+Berlin,Forckenbeckstr 95,Berlin,14197,DE
+Berlin,Badensche Str 49,Berlin,10715,DE
+Berlin,Durlacher Str 24,Berlin,10715,DE
+Berlin,Nürnberger Str 38,Berlin,10777,DE
+Berlin,Motzstr 76,Berlin,10779,DE
+Berlin,Kurfürstendamm 135,Berlin,10711,DE
+Berlin,Eichborndamm 294-296,Berlin,13437,DE
+Bermatingen,Rathausplatz 8,Baden-Württemberg,88697,DE
+Berne,Langestr 20,Niedersachsen,27804,DE
+Bernhardswald,Rathausplatz 9-10,Bayern,93170,DE
+Bernstadt,Görlitzerstr 6,Sachsen,02748,DE
+Bersenbrück,Lindenstr 24,Niedersachsen,49593,DE
+Betzdorf,Rainstr 2,Rheinland-Pfalz,57518,DE
+Beverungen,Bahnhofstr 35,Nordrhein-Westfalen,37688,DE
+Biberach,Waldseer Str 100,Baden-Württemberg,88400,DE
+Biberbach,Rathausplatz 2,Bayern,86485,DE
+Biblis,Zum Rhein 2,Hessen,68647,DE
+Biebergemünd,Mühlstr 2,Hessen,63599,DE
+Bielefeld,Braker Str 42,Nordrhein-Westfalen,33729,DE
+Bielefeld,Westerfeldstr 6,Nordrhein-Westfalen,33611,DE
+Bielefeld,Apfelstr 85,Nordrhein-Westfalen,33613,DE
+Bielefeld,Primelweg 23,Nordrhein-Westfalen,33659,DE
+Bielefeld,Windelsbleicher Str 229-237,Nordrhein-Westfalen,33659,DE
+Bienenbüttel,Bahnhofstr 23,Niedersachsen,29553,DE
+Bietigheim,Kreuzstr 12,Baden-Württemberg,76467,DE
+Bingen,Hauptstr 30,Baden-Württemberg,72511,DE
+Bingen,Saarlandstr 145,Rheinland-Pfalz,55411,DE
+Binz,Dünenstr 34 *,Mecklenburg-Vorpommern,18609,DE
+Binzen,Fischinger Str 2,Baden-Württemberg,79589,DE
+Birkenfeld,Hauptstr 84,Baden-Württemberg,75217,DE
+Birkenwerder,Erich-Mühsam-Str 1,Brandenburg,16547,DE
+Birstein,Hauptstr 16-18,Hessen,63633,DE
+Bischberg,Industriestr 1B,Bayern,96120,DE
+Bischofsheim,Ulmenstr 1,Hessen,65474,DE
+Bischofsmais,Hauptstr 23,Bayern,94253,DE
+Bissendorf,Zum Eistruper Feld 1,Niedersachsen,49143,DE
+Bitterfeld,Anhaltstr 70B,Sachsen-Anhalt,06749,DE
+Blankenburg,Lange Str 1,Sachsen-Anhalt,38889,DE
+Blankenheim,St-Stevens-Woluwe-Platz 3,Nordrhein-Westfalen,53945,DE
+Blaubeuren,Kirchplatz 2,Baden-Württemberg,89143,DE
+Bleckede,Breite Str 43,Niedersachsen,21354,DE
+Bleicherode,Heerweg 55,Thüringen,99752,DE
+Bobenheim-Roxheim,Wormser Landstr 27-31,Rheinland-Pfalz,67240,DE
+Bobingen,Hochstr 5A,Bayern,86399,DE
+Böblingen,Albert-Schweitzer-Str 1,Baden-Württemberg,71034,DE
+Böblingen,Wolfgang-Brumme-Allee 25,Baden-Württemberg,71034,DE
+Böbrach,Bodenmaiser Str 16-18,Bayern,94255,DE
+Bocholt,Schulstr 30,Nordrhein-Westfalen,46395,DE
+Bocholt,Osterstr 39,Nordrhein-Westfalen,46397,DE
+Bochum,Dorstener Str 209,Nordrhein-Westfalen,44809,DE
+Bochum,Herner Str 369-371,Nordrhein-Westfalen,44807,DE
+Bochum,Hattinger Str 66-68,Nordrhein-Westfalen,44789,DE
+Bochum,Im Hagenacker 19,Nordrhein-Westfalen,44805,DE
+Bochum,Am Heerbusch 10,Nordrhein-Westfalen,44894,DE
+Bochum,Kemnader Str 319,Nordrhein-Westfalen,44797,DE
+Bochum,Karl-Friedrich-Str 123,Nordrhein-Westfalen,44795,DE
+Bochum,Hattinger Str 289,Nordrhein-Westfalen,44795,DE
+Bochum,Höntroper Str 67,Nordrhein-Westfalen,44869,DE
+Bochum,Hochstr 9,Nordrhein-Westfalen,44866,DE
+Bodenheim,Laubenheimer Str 1,Rheinland-Pfalz,55294,DE
+Bodnegg,Dorfstr 12,Baden-Württemberg,88285,DE
+Bogen,Stadtplatz 11,Bayern,94327,DE
+Böhmenkirch,Uhlandstr 3,Baden-Württemberg,89558,DE
+Boizenburg,Schwartower Steig 17,Mecklenburg-Vorpommern,19258,DE
+Böklund,Schleswiger Str 6,Schleswig-Holstein,24860,DE
+Bönen,Bahnhofstr 131,Nordrhein-Westfalen,59199,DE
+Bonn,Beethovenallee 9,Nordrhein-Westfalen,53173,DE
+Bonn,Kölnstr 464,Nordrhein-Westfalen,53117,DE
+Bonn,Friedrich-Breuer-Str 54,Nordrhein-Westfalen,53225,DE
+Bonn,Edisonallee 2,Nordrhein-Westfalen,53125,DE
+Bonn,Endenicher Str 331,Nordrhein-Westfalen,53121,DE
+Bonn,Roncallistr 49-51,Nordrhein-Westfalen,53123,DE
+Bonn,Mittelstr 12,Nordrhein-Westfalen,53175,DE
+Bonn,Römerplatz 3,Nordrhein-Westfalen,53173,DE
+Bonn,Haager Weg 21,Nordrhein-Westfalen,53127,DE
+Boppard,Burgstr 7,Rheinland-Pfalz,56154,DE
+Boppard,Bopparder Str 82,Rheinland-Pfalz,56154,DE
+Boppard,Am Heidepark 14,Rheinland-Pfalz,56154,DE
+Börger,Tannenweg 14,Niedersachsen,26904,DE
+Borken,Hundsburgstr 11,Hessen,34582,DE
+Borken,Johann-Walling-Str 7,Nordrhein-Westfalen,46325,DE
+Borna,Wilhelm-Külz-Str 6-8,Sachsen,04552,DE
+Borna,Gerhart-Hauptmann-Str 9,Sachsen,04552,DE
+Bottrop,Altmarkt 7,Nordrhein-Westfalen,46236,DE
+Bottrop,Gladbecker Str 205,Nordrhein-Westfalen,46240,DE
+Bottrop,Im Brinkmannsfeld 1,Nordrhein-Westfalen,46242,DE
+Bottrop,Gungstr 66,Nordrhein-Westfalen,46238,DE
+Brake,Breite Str 34-38,Niedersachsen,26919,DE
+Brakel,Rosenstr 3,Nordrhein-Westfalen,33034,DE
+Brandenburg,Willi-Sänger-Str 15A,Brandenburg,14770,DE
+Brandenburg,Chausseestr 1,Brandenburg,14778,DE
+Brandis,Gewerbeallee 8 A,Sachsen,04821,DE
+Brattendorf,Schleusingerstr 64,Thüringen,98673,DE
+Braubach,Wilhelmstr 5,Rheinland-Pfalz,56338,DE
+Braunsbedra,Geiseltalstr 2,Sachsen-Anhalt,06242,DE
+Braunschweig,Bohlweg 13,Niedersachsen,38100,DE
+Braunschweig,Hinter Den Hainen 14 E,Niedersachsen,38126,DE
+Braunschweig,Altewiekring 40,Niedersachsen,38102,DE
+Braunschweig,Gliesmaroder Str 3,Niedersachsen,38106,DE
+Braunschweig,Hauptstr 74,Niedersachsen,38110,DE
+Bredstedt,Markt 4,Schleswig-Holstein,25821,DE
+Breisach,Neutorstr 35,Baden-Württemberg,79206,DE
+Breitengüßbach,Baunacherstr 17,Bayern,96149,DE
+Bremen,Violenstr 27,Bremen,28195,DE
+Bremen,Schwanewederstr 30,Bremen,28779,DE
+Bremen,Kornstr 113,Bremen,28201,DE
+Bremen,Burger Heerstr 46,Bremen,28719,DE
+Bremen,Osterholzer Heerstr 84D,Bremen,28327,DE
+Bremen,Farger Str 121,Bremen,28777,DE
+Bremen,Wilseder-Berg-Str 19 A,Bremen,28329,DE
+Bremen,Halmer Weg 43,Bremen,28237,DE
+Bremen,Gröpelinger Heerstr 171,Bremen,28237,DE
+Bremen,Hemelinger Bahnhofstr 8,Bremen,28309,DE
+Bremen,Ostertorsteinweg 88-89,Bremen,28203,DE
+Bremen,Eduard-Grunow-Str 31,Bremen,28203,DE
+Bremen,Woltmershauser Str 446-448,Bremen,28197,DE
+Bremen,Am Sodenmatt 49,Bremen,28259,DE
+Bremen,Lange Reihe 66-68,Bremen,28219,DE
+Bremerhaven,Hafenstr 211,Bremen,27568,DE
+Bremerhaven,Hafenstr 131,Bremen,27576,DE
+Bremerhaven,Schiffdorfer Chaussee 227,Bremen,27574,DE
+Bretten,Melanchthonstr 5,Baden-Württemberg,75015,DE
+Brieskow-Finkenheerd,Platz Der Freiheit 14,Brandenburg,15295,DE
+Brilon,Bahnhofstr 10,Nordrhein-Westfalen,59929,DE
+Brilon,Mühlenweg 14,Nordrhein-Westfalen,59929,DE
+Brilon,Am Markt 7-8,Nordrhein-Westfalen,59929,DE
+Brombachtal,Höhenstr 10,Hessen,64753,DE
+Brotterode,Schmalkalder Str 15,Thüringen,98599,DE
+Bruchköbel,Hanauer Str 21,Hessen,63486,DE
+Brühl,Mannheimer Str 19D,Baden-Württemberg,68782,DE
+Buggingen,Hauptstr 11,Baden-Württemberg,79426,DE
+Bünde,Ahlerstr 105,Nordrhein-Westfalen,32257,DE
+Bünde,Mindener Str 82,Nordrhein-Westfalen,32257,DE
+Bundenthal,Rumbacherstr 1-5,Rheinland-Pfalz,76891,DE
+Burbach,Bahnhofsplatz 7,Nordrhein-Westfalen,57299,DE
+Büren,Geseker Str 26 A,Nordrhein-Westfalen,33142,DE
+Büren,Lange Str 2,Nordrhein-Westfalen,33142,DE
+Burgau,Schmiedberg 3A,Bayern,89331,DE
+Burgdorf,Depenauer Weg 20,Niedersachsen,31303,DE
+Burghaun,Schlossstr 1,Hessen,36151,DE
+Burgsinn,Hauptstr 22,Bayern,97775,DE
+Burkhardtsdorf,Am Markt 2 B,Sachsen,09235,DE
+Burkhardtsdorf,Rathausplatz 5,Sachsen,09235,DE
+Bürstadt,Nibelungenstr 84,Hessen,68642,DE
+Butjadingen,Butjadinger Str 49,Niedersachsen,26969,DE
+Buttenheim,Hauptstr 11,Bayern,96155,DE
+Buttstädt,Kurze-Gasse 1,Thüringen,99628,DE
+Bützow,Lange Str 39,Mecklenburg-Vorpommern,18246,DE
+Cadenberge,Am Markt 2,Niedersachsen,21781,DE
+Cadolzburg,Nürnberger Str 11,Bayern,90556,DE
+Calbe,Wilhelm-Löwe-Str 19,Sachsen-Anhalt,39240,DE
+Camburg,Schmiedehäuser Str 56,Thüringen,07774,DE
+Castrop,Ickerner Str 24,Nordrhein-Westfalen,44581,DE
+Castrop,Neuroder Platz 2,Nordrhein-Westfalen,44577,DE
+Chemnitz,Rudolf-Krahl-Str 52,Sachsen,09116,DE
+Chemnitz,Zeißstr 55-55 A,Sachsen,09131,DE
+Chemnitz,Limbacherstr 80-82,Sachsen,09113,DE
+Chemnitz,Alfred-Neubert-Str 17,Sachsen,09123,DE
+Chemnitz,Arthur-Bretschneider-Str 13,Sachsen,09113,DE
+Chemnitz,Untere Hauptstr 15,Sachsen,09228,DE
+Clausthal-Zellerfeld,Goslarsche Str 23,Niedersachsen,38678,DE
+Cleebronn,Brückenstr 2,Baden-Württemberg,74389,DE
+Coburg,Ketschengasse 17,Bayern,96450,DE
+Coesfeld,Markt 9,Nordrhein-Westfalen,48653,DE
+Coesfeld,Coesfelder Str 73,Nordrhein-Westfalen,48653,DE
+Colbitz,Lindenstr 1,Sachsen-Anhalt,39326,DE
+Coswig,Moritzburger Str 84-86,Sachsen,01640,DE
+Cottbus,Am Fliess 16,Brandenburg,03044,DE
+Cottbus,Hallenser Str 9,Brandenburg,03046,DE
+Crailsheim,Lange Str 30,Baden-Württemberg,74564,DE
+Crimmitschau,Amselstr 2A,Sachsen,08451,DE
+Crinitz,Hauptstr 22,Brandenburg,03246,DE
+Crivitz,Große Str 5-7,Mecklenburg-Vorpommern,19089,DE
+Cuxhaven,St.-Annen-Weg 1,Niedersachsen,27478,DE
+Cuxhaven,Hauptstr 69-71,Niedersachsen,27478,DE
+Cuxhaven,Strichweg 86,Niedersachsen,27472,DE
+Cuxhaven,Steinmarner Str 65,Niedersachsen,27476,DE
+Daaden,Mittelstr 21,Rheinland-Pfalz,57567,DE
+Dachsenhausen,Marktstr 11,Rheinland-Pfalz,56340,DE
+Dahme,Jüterboger Chaussee 25,Brandenburg,15936,DE
+Dahn,Marktstr 14,Rheinland-Pfalz,66994,DE
+Damme,Große Str 24,Niedersachsen,49401,DE
+Dänischenhagen,Scharnhagener Str 3-5,Schleswig-Holstein,24229,DE
+Dannenberg,Lüchowerstr 80,Niedersachsen,29451,DE
+Dargun,Demminer Str 15-17,Mecklenburg-Vorpommern,17159,DE
+Darmstadt,Heimstättenweg 81-83,Hessen,64295,DE
+Dassel,Alter Markt 5,Niedersachsen,37586,DE
+Dassow,Friedensstr 27,Mecklenburg-Vorpommern,23942,DE
+Deckenpfronn,Calwer Str 8,Baden-Württemberg,75392,DE
+Deensen,Sollingtrift 2,Niedersachsen,37627,DE
+Deggendorf,Oberer Stadtplatz 11,Bayern,94469,DE
+Deining,Obere Hauptstr 13,Bayern,92364,DE
+Deizisau,Bismarckstr 20,Baden-Württemberg,73779,DE
+Delbrück,Auf Dem Haupte 32,Nordrhein-Westfalen,33129,DE
+Delitzsch,Dübener Str 39,Sachsen,04509,DE
+Delmenhorst,Annenheiderstr 199-201,Niedersachsen,27755,DE
+Demmin,Rudolf-Breitscheid-Str 24,Mecklenburg-Vorpommern,17109,DE
+Denkendorf,Hindenburgstr 1,Baden-Württemberg,73770,DE
+Dessau-Innenstadt,Franzstr 159,Sachsen-Anhalt,06842,DE
+Dessau-Waldersee,Kreisstr 1,Sachsen-Anhalt,06844,DE
+Detmold,Adolf-Meier-Str 41,Nordrhein-Westfalen,32758,DE
+Detmold,Friedrich-Ebert-Str 83,Nordrhein-Westfalen,32760,DE
+Detmold,Augustdorfer Str 10B,Nordrhein-Westfalen,32758,DE
+Dettingen,Kirchheimerstr 24,Baden-Württemberg,73265,DE
+Diemelsee,Bredelaer Str 4A,Hessen,34519,DE
+Diepenau,Hauptstr 22,Niedersachsen,31603,DE
+Diepholz,Lange Str 53,Niedersachsen,49356,DE
+Dierdorf,Königsberger Str 5,Rheinland-Pfalz,56269,DE
+Dietzenbach,Dreieichstr 7-13,Hessen,63128,DE
+Dietzhölztal,Hauptstr 85,Hessen,35716,DE
+Dingolfing,Kreuzstr 32,Bayern,84130,DE
+Dinkelsbühl,Nördlinger Str 13,Bayern,91550,DE
+Dinslaken,Teerstr 1,Nordrhein-Westfalen,46537,DE
+Dippoldiswalde,Rabenauer Str 43,Sachsen,01744,DE
+Dischingen,Dossenberger Str 34,Baden-Württemberg,89561,DE
+Döbeln,Dresdner Str 30M,Sachsen,04720,DE
+Doberlug-Kirchhain,Hauptstr 25,Brandenburg,03253,DE
+Döbern,Gewerbegebiet Süd 8,Brandenburg,03159,DE
+Dogern,Hauptstr 25,Baden-Württemberg,79804,DE
+Dorfen,Haager Str 60,Bayern,84405,DE
+Dormagen,Sinnersdorfer Str 20,Nordrhein-Westfalen,41540,DE
+Dormagen,Kölner Str 144,Nordrhein-Westfalen,41539,DE
+Dornum,Alte Poststr 1,Niedersachsen,26553,DE
+Dorsten,Debbingstr 20,Nordrhein-Westfalen,46286,DE
+Dorsten,Fritz-Eggeling-Allee 7,Nordrhein-Westfalen,46286,DE
+Dorsten,Hervester Str 14,Nordrhein-Westfalen,46286,DE
+Dortmund,Gleiwitzstr 160,Nordrhein-Westfalen,44328,DE
+Dortmund,Evinger Str 505,Nordrhein-Westfalen,44339,DE
+Dortmund,Ostenhellweg 49,Nordrhein-Westfalen,44135,DE
+Dortmund,Dorstfelder Hellweg 26,Nordrhein-Westfalen,44149,DE
+Dortmund,Hermannstr 53-55,Nordrhein-Westfalen,44263,DE
+Dortmund,Münsterstr 54-56,Nordrhein-Westfalen,44145,DE
+Dortmund,Schützenstr 20,Nordrhein-Westfalen,44147,DE
+Dortmund,Färberstr 23,Nordrhein-Westfalen,44329,DE
+Dortmund,Martener Str 314,Nordrhein-Westfalen,44379,DE
+Dortmund,Weckherlinweg 1,Nordrhein-Westfalen,44359,DE
+Dortmund,Sölder Str 88,Nordrhein-Westfalen,44289,DE
+Dötlingen,Hauptstr 15,Niedersachsen,27801,DE
+Drebber,Hauptstr 34,Niedersachsen,49457,DE
+Dreikaiserbäder,Lindenstr 76,Mecklenburg-Vorpommern,17419,DE
+Dresden,Zwinglistr 30,Sachsen,01277,DE
+Dresden,Österreicher Str 22-24,Sachsen,01279,DE
+Dresden,Rudolf-Leonhard-Str 21,Sachsen,01097,DE
+Dresden,Pirnaer Landstr 166,Sachsen,01257,DE
+Dresden,Tharandter Str 41 A,Sachsen,01159,DE
+Dresden,Pillnitzer Landstr 32,Sachsen,01326,DE
+Dresden,Großenhainer Str 78,Sachsen,01127,DE
+Dresden,Grunaer Str 27,Sachsen,01069,DE
+Dresden,Paradiesstr 40,Sachsen,01217,DE
+Dresden,Wiener Platz 3,Sachsen,01069,DE
+Dresden,Kipsdorfer Str 99,Sachsen,01277,DE
+Dresden,Schandauer Str 23B,Sachsen,01309,DE
+Dresden,Hohenbusch-Markt 1,Sachsen,01108,DE
+Drochtersen,Sietwender Str 21,Niedersachsen,21706,DE
+Duderstadt,Marktstr 87,Niedersachsen,37115,DE
+Duisburg,Kometenplatz 34,Nordrhein-Westfalen,47179,DE
+Duisburg,Feldstr 12,Nordrhein-Westfalen,47228,DE
+Duisburg,Kaiserstr 61,Nordrhein-Westfalen,47229,DE
+Duisburg,Rheingoldstr 12,Nordrhein-Westfalen,47229,DE
+Duisburg,Kommandantenstr 62,Nordrhein-Westfalen,47057,DE
+Duisburg,Hohenzollernplatz 16,Nordrhein-Westfalen,47167,DE
+Duisburg,Wagnerstr 8,Nordrhein-Westfalen,47239,DE
+Duisburg,Friedrich-Ebert-Str 387,Nordrhein-Westfalen,47178,DE
+Duisburg,Elbinger Str 3,Nordrhein-Westfalen,47279,DE
+Düren,Arnoldusstr 32,Nordrhein-Westfalen,52353,DE
+Düren,Nordstr 33,Nordrhein-Westfalen,52353,DE
+Düren,Rölsdorfer Str 1-3,Nordrhein-Westfalen,52355,DE
+Düren,Tivolistr 78,Nordrhein-Westfalen,52349,DE
+Düsseldorf,Himmelgeisterstr 81,Nordrhein-Westfalen,40225,DE
+Düsseldorf,Alt Eller 3,Nordrhein-Westfalen,40229,DE
+Düsseldorf,Zeppelinstr 3-7,Nordrhein-Westfalen,40231,DE
+Düsseldorf,Birkenstr 98,Nordrhein-Westfalen,40233,DE
+Düsseldorf,Hoffeldstr 47,Nordrhein-Westfalen,40235,DE
+Düsseldorf,Grafenberger Allee 139,Nordrhein-Westfalen,40237,DE
+Düsseldorf,Hüttenstr 71,Nordrhein-Westfalen,40215,DE
+Düsseldorf,Fritz-Erler-Str 27,Nordrhein-Westfalen,40595,DE
+Düsseldorf,Benderstr 38,Nordrhein-Westfalen,40625,DE
+Düsseldorf,Roßstr 69-73,Nordrhein-Westfalen,40476,DE
+Düsseldorf,Schiessstr 2,Nordrhein-Westfalen,40549,DE
+Düsseldorf,Kaiserstr 30A,Nordrhein-Westfalen,40479,DE
+Düsseldorf,Westfalenstr 4,Nordrhein-Westfalen,40472,DE
+Düsseldorf,Bismarckstr 54A,Nordrhein-Westfalen,40210,DE
+Düsseldorf,Oststr 151,Nordrhein-Westfalen,40210,DE
+Düsseldorf,Am Wehrhahn 45,Nordrhein-Westfalen,40211,DE
+Düsseldorf,Am Strasserfeld 30,Nordrhein-Westfalen,40627,DE
+Ebern,Marktplatz 22,Bayern,96106,DE
+Ebersberg,Dr-.Wintrich-Str 47,Bayern,85560,DE
+Ebhausen,Ziegelweg 4,Baden-Württemberg,72224,DE
+Ebsdorfergrund,Dreihäuserstr 15,Hessen,35085,DE
+Eching,Am Windachfeld 7,Bayern,82279,DE
+Eching,Obere Hauptstr 3,Bayern,85386,DE
+Echzell,Raunstr 2,Hessen,61209,DE
+Edenkoben,Tanzstr 11,Rheinland-Pfalz,67480,DE
+Edermünde,Guxhagener Str 29,Hessen,34295,DE
+Edewecht,Friedrichsfehner Str 21,Niedersachsen,26188,DE
+Edingen-Neckarhausen,Hauptstr 85,Baden-Württemberg,68535,DE
+Eggenfelden,Schellenbruckplatz 10,Bayern,84307,DE
+Eggenstein-Leopoldshafen,Waldstr 16,Baden-Württemberg,76344,DE
+Eggingen,Bonndorfer Str 12,Baden-Württemberg,79805,DE
+Eicklingen,Schmolkamp 52,Niedersachsen,29358,DE
+Eilenburg,Kranoldstr 26,Sachsen,04838,DE
+Eilenburg,Strasse Der Jugend 1 a,Sachsen,04838,DE
+Einbeck,Marktstr 27,Niedersachsen,37574,DE
+Einhausen,Mathildenstr 30,Hessen,64683,DE
+Eisenach,Bahnhofstr 27,Thüringen,99817,DE
+Eisenach,Bleichrasen 41,Thüringen,99817,DE
+Eisenberg,Kerzenheimer Str 29,Rheinland-Pfalz,67304,DE
+Eisenberg,Kerzenheimer Str 11,Rheinland-Pfalz,67304,DE
+Eisenberg,Steinweg 30-32,Thüringen,07607,DE
+Eisenhüttenstadt,Königstr 64,Brandenburg,15890,DE
+Eisfeld,Kirchberg 1-7,Thüringen,98673,DE
+Eisleben,Herner Str 7,Sachsen-Anhalt,06295,DE
+Eisleben,Hallesche Str 77,Sachsen-Anhalt,06295,DE
+Ellwangen,Marktplatz 19,Baden-Württemberg,73479,DE
+Elmshorn,Schulstr 1,Schleswig-Holstein,25335,DE
+Elsdorf,Mittelstr 39,Nordrhein-Westfalen,50189,DE
+Elsterberg,Bahnhofstr 26,Sachsen,07985,DE
+Eltmann,Bamberger Str 6,Bayern,97483,DE
+Eltville,Kiliansring 5-7,Hessen,65343,DE
+Embsen,Bahnhofstr 11,Niedersachsen,21409,DE
+Emden,Wykhoffweg 2,Niedersachsen,26725,DE
+Emmelshausen,Rhein-Mosel-Str 50,Rheinland-Pfalz,56281,DE
+Emmerich,Kassstr 46,Nordrhein-Westfalen,46446,DE
+Emmingen-Liptingen,In Der Burg 4 A,Baden-Württemberg,78576,DE
+Empfingen,Marktstr 34,Baden-Württemberg,72186,DE
+Emsdetten,Bahnhofstr 3,Nordrhein-Westfalen,48282,DE
+Endingen,Marktplatz 19,Baden-Württemberg,79346,DE
+Engen,Dorfstr 32,Baden-Württemberg,78234,DE
+Ennepetal,Voerder Str 44-46,Nordrhein-Westfalen,58256,DE
+Ense,Poststr 15,Nordrhein-Westfalen,59469,DE
+Eppelborn,Kirchenstr 15,Saarland,66571,DE
+Eppertshausen,Einsteinstr 4,Hessen,64859,DE
+Eppstein,Hauptstr 97/1,Hessen,65817,DE
+Erbach,Treppenweg 2,Hessen,64711,DE
+Erftstadt,Bonner Str 5,Nordrhein-Westfalen,50374,DE
+Erftstadt,Holzdamm 5,Nordrhein-Westfalen,50374,DE
+Erfurt,Schwanseer Str 9 A,Thüringen,99195,DE
+Erkelenz,Brüderstr 8,Nordrhein-Westfalen,41812,DE
+Erkheim,Schlößlestr 5,Bayern,87746,DE
+Erkrath,Hochdahler Markt 51,Nordrhein-Westfalen,40699,DE
+Erlangen,Sylvaniastr 14,Bayern,91058,DE
+Erlangen,Luitpoldstr 8,Bayern,91054,DE
+Erndtebrück,Marktplatz 2,Nordrhein-Westfalen,57339,DE
+Erpel,Heisterer Str 2A,Rheinland-Pfalz,53579,DE
+Erwitte,Hellweg 28,Nordrhein-Westfalen,59597,DE
+Erzhausen,Bahnstr 87,Hessen,64390,DE
+Eschau,Elsavastr 22-24,Bayern,63863,DE
+Eschborn,Unterortstr 23-25,Hessen,65760,DE
+Eschweiler,Otto-Wels-Str 40-52,Nordrhein-Westfalen,52249,DE
+Eschweiler,Frankenplatz 2,Nordrhein-Westfalen,52249,DE
+Espelkamp,Breslauer Str 8,Nordrhein-Westfalen,32339,DE
+Essen,Altendorfer Str 276,Nordrhein-Westfalen,45143,DE
+Essen,Bocholder Str 278,Nordrhein-Westfalen,45356,DE
+Essen,Alfredstr 399,Nordrhein-Westfalen,45133,DE
+Essen,Donnerstr 143,Nordrhein-Westfalen,45357,DE
+Essen,Seestr 35,Nordrhein-Westfalen,45359,DE
+Essen,Frohnhauser Platz 1,Nordrhein-Westfalen,45145,DE
+Essen,Heidhauser Str 58,Nordrhein-Westfalen,45239,DE
+Essen,Gemarkenstr 72,Nordrhein-Westfalen,45147,DE
+Essen,Ringstr 1,Nordrhein-Westfalen,45219,DE
+Essen,Sommerburgstr 165,Nordrhein-Westfalen,45149,DE
+Essen,Brandstr 25,Nordrhein-Westfalen,45127,DE
+Essen,Frankenstr 143-145,Nordrhein-Westfalen,45134,DE
+Essen,Kaiser-Wilhelm-Str 6,Nordrhein-Westfalen,45276,DE
+Essingen,Rathausgasse 2,Baden-Württemberg,73457,DE
+Esslingen,Ruiter Str 1,Baden-Württemberg,73734,DE
+Esslingen,Küferstr 32-34,Baden-Württemberg,73728,DE
+Esslingen,Hauptwasenstr 7,Baden-Württemberg,73734,DE
+Ettenheim,Rohanstr 2,Baden-Württemberg,77955,DE
+Euskirchen,Münstereifeler Str 143-145,Nordrhein-Westfalen,53879,DE
+Euskirchen,Charleviller Platz 29,Nordrhein-Westfalen,53879,DE
+Euskirchen,Kirchheimer Str 89,Nordrhein-Westfalen,53881,DE
+Fahrdorf,Dorfstr 48,Schleswig-Holstein,24857,DE
+Falkensee,Adlerstr 48,Brandenburg,14612,DE
+Falkensee,Spandauer Str 160 C,Brandenburg,14612,DE
+Fehmarn,Sahrensdorfer Str 35A,Schleswig-Holstein,23769,DE
+Fehmarn,Breite Str 2,Schleswig-Holstein,23769,DE
+Feldatal,Hauptstr 11,Hessen,36325,DE
+Feldkirchen-Westerham,Ludwig-Erhard-Str 1,Bayern,83620,DE
+Fellbach,Klosterplatz 25,Baden-Württemberg,70736,DE
+Felsberg,Obertor 5,Hessen,34587,DE
+Felsberg,Bahnhofstr 13,Hessen,34587,DE
+Filderstadt,Nürtinger Str 5,Baden-Württemberg,70794,DE
+Fintel,Rotenburgerstr 12,Niedersachsen,27389,DE
+Fladungen,Ludwigstr 12,Bayern,97650,DE
+Flechtingen,Lindenplatz 1,Sachsen-Anhalt,39345,DE
+Flein,Ilsfelder Str 31,Baden-Württemberg,74223,DE
+Flensburg,Engelsbyer Str 55,Schleswig-Holstein,24943,DE
+Flensburg,Beethovenstr 40-42,Schleswig-Holstein,24943,DE
+Flensburg,Bachstr 7,Schleswig-Holstein,24943,DE
+Flensburg,Ochsenweg 27,Schleswig-Holstein,24976,DE
+Flensburg,Gertrudenstr 10,Schleswig-Holstein,24939,DE
+Flieden,Fuldaer Str 3,Hessen,36103,DE
+Flöha,Fritz-Heckert-Str 60,Sachsen,09557,DE
+Flörsheim,Industriestr 2C,Hessen,65439,DE
+Forst,Weiherer Str 12,Baden-Württemberg,76694,DE
+Forst,Karlstr 19,Brandenburg,03149,DE
+Forst,Spremberger Str 56-58,Brandenburg,03149,DE
+Forstinning,Mühldorfer Str 20,Bayern,85661,DE
+Frankfurt,Kaiserstr 44,Hessen,60329,DE
+Frankfurt,Marktstr 38-42,Hessen,60388,DE
+Frankfurt,Triebstr 34,Hessen,60388,DE
+Frankfurt,Galgenstr 18,Hessen,60437,DE
+Frankfurt,Berger Str 280-284,Hessen,60385,DE
+Frankfurt,Raimundstr 135-137,Hessen,60320,DE
+Frankfurt,Eschersheimer Landstr 420-422,Hessen,60433,DE
+Frankfurt,Starkenburger Str 54-56,Hessen,60386,DE
+Frankfurt,Frankenallee 230,Hessen,60326,DE
+Frankfurt,Ginnheimer Hohl 32-34,Hessen,60431,DE
+Frankfurt,Am Hohen Weg 30,Hessen,60488,DE
+Frankfurt,Zeil 29-31,Hessen,60313,DE
+Frankfurt,Bruchfeldstr 92*,Hessen,60528,DE
+Frankfurt,Thomas-Mann-Str 6,Hessen,60439,DE
+Frankfurt,Sandweg 39-41,Hessen,60316,DE
+Frankfurt,Friedberger Landstr 109,Hessen,60318,DE
+Frankfurt,Oeder Weg 100,Hessen,60318,DE
+Frankfurt,Offenbacher Landstr 416-418,Hessen,60599,DE
+Frankfurt,Hanauer Landstr 48-50,Hessen,60314,DE
+Frankfurt,Darmstädter Landstr 75,Hessen,60598,DE
+Frankfurt,Farbenstr 46,Hessen,65931,DE
+Frankfurt,Alt Zeilsheim 45,Hessen,65931,DE
+Frechen,Frechener Str 22,Nordrhein-Westfalen,50226,DE
+Frechen,Aachener Str 644,Nordrhein-Westfalen,50226,DE
+Freden,Bachstr 21,Niedersachsen,31084,DE
+Freiberg,Friedeburger Str 11,Sachsen,09599,DE
+Freiburg,Sandstr 12-14,Baden-Württemberg,79104,DE
+Freiburg St.Georgen,Bergiselstr 28-32,Baden-Württemberg,79111,DE
+Freiburg,Freiburger Landstr 35,Baden-Württemberg,79112,DE
+Freiburg,Dreikönigstr 9,Baden-Württemberg,79102,DE
+Freudenberg,Schleusenweg 1,Baden-Württemberg,97896,DE
+Freudenstadt,Karl-Von-Hahn-Str 22,Baden-Württemberg,72250,DE
+Freystadt,Marktplatz 54,Bayern,92342,DE
+Frickenhausen,Hauptstr 50,Baden-Württemberg,72636,DE
+Friedberg,Ludwigstr 16,Bayern,86316,DE
+Friedberg,Stefanstr 6,Bayern,86316,DE
+Friedberg,Lindenstr 25,Hessen,61169,DE
+Friedeburg,Friedeburger Hauptstr 80,Niedersachsen,26446,DE
+Friedewald,Hauptstr 4,Hessen,36289,DE
+Friedland,Breite Str 1,Brandenburg,15848,DE
+Friedland,Ludolfshäuser Str 2A,Niedersachsen,37133,DE
+Friedrichshafen,Allmandstr 6,Baden-Württemberg,88045,DE
+Friedrichshafen,Friedrichstr 59,Baden-Württemberg,88045,DE
+Friesoythe,Altenoyther Str 37,Niedersachsen,26169,DE
+Friesoythe,Kirchstr 1,Niedersachsen,26169,DE
+Fröndenberg,Markt 7A,Nordrhein-Westfalen,58730,DE
+Fröndenberg,Ardeyer Str 62,Nordrhein-Westfalen,58730,DE
+Fulda,Aschenbergplatz 18,Hessen,36039,DE
+Fulda,Lehnerzerstr 2,Hessen,36037,DE
+Fulda,Rangstr 37,Hessen,36043,DE
+Fuldatal,Friedrichstr 4,Hessen,34233,DE
+Fürstenfeldbruck,Theodor-Heuss-Str 17-23,Bayern,82256,DE
+Fürstenwalde,Eisenbahnstr 11,Brandenburg,15517,DE
+Fürth,Gründlacher Str 313,Bayern,90765,DE
+Furth,Hauptstr 16,Bayern,84095,DE
+Gaggenau,Hauptstr 16,Baden-Württemberg,76571,DE
+Gangkofen,Eggenfeldener Str 1,Bayern,84140,DE
+Garching,Mitterweg 35,Bayern,84518,DE
+Garching,Schleißheimer Str 12,Bayern,85748,DE
+Garrel,Hauptstr 41,Niedersachsen,49681,DE
+Gars,Marktplatz 3,Bayern,83536,DE
+Gau-Odernheim,Obermarkt 21,Rheinland-Pfalz,55239,DE
+Geeste,Meppener Str 121,Niedersachsen,49744,DE
+Geesthacht,Mercatorstr 1,Schleswig-Holstein,21502,DE
+Gefrees,Bayreuther Str 8,Bayern,95482,DE
+Geilenkirchen,Konrad-Adenauer-Str 87,Nordrhein-Westfalen,52511,DE
+Geisa,Marktplatz 8-10,Thüringen,36419,DE
+Geismar,Bebendorfer Str 6 A,Thüringen,37308,DE
+Geldern,Markt 29,Nordrhein-Westfalen,47608,DE
+Geldern,Walbecker Markt 7,Nordrhein-Westfalen,47608,DE
+Gelenau/Erzgeb.,Strasse Der Einheit 164,Sachsen,09423,DE
+Gelsenkirchen,Bahnhofstr 53,Nordrhein-Westfalen,45879,DE
+Gelsenkirchen,Theodor-Otte-Str 83,Nordrhein-Westfalen,45897,DE
+Gelsenkirchen,Goldbergplatz 1,Nordrhein-Westfalen,45894,DE
+Gelsenkirchen,Düppelstr 55,Nordrhein-Westfalen,45897,DE
+Gelsenkirchen,Wanner Str 166,Nordrhein-Westfalen,45888,DE
+Gelsenkirchen,Florastr 96,Nordrhein-Westfalen,45888,DE
+Gelsenkirchen,Cranger Str 155-157,Nordrhein-Westfalen,45891,DE
+Gelsenkirchen,Polsumer Str 160,Nordrhein-Westfalen,45896,DE
+Gelsenkirchen,Fersenbruch 18,Nordrhein-Westfalen,45883,DE
+Gelsenkirchen,Essener Str 14,Nordrhein-Westfalen,45899,DE
+Gelsenkirchen,Karl-Meyer-Str 21,Nordrhein-Westfalen,45884,DE
+Gelsenkirchen,Schulte-Im-Hofe-Platz 7,Nordrhein-Westfalen,45886,DE
+Geltendorf,Bahnhofstr 22,Bayern,82269,DE
+Gemünden,Friedenstr 19,Bayern,97737,DE
+Georgensgmünd,Bahnhofstr 17,Bayern,91166,DE
+Georgensgmünd,Pleinfelder Str 34,Bayern,91166,DE
+Georgsmarienhütte,Sutthauserstr 42,Niedersachsen,49124,DE
+Gera,Liebschwitzerstr 131,Thüringen,07551,DE
+Geretsried,Karl-Lederer-Platz 14,Bayern,82538,DE
+Germaringen,Gablonzerstr 1,Bayern,87656,DE
+Germering,Luitpoldstr 1,Bayern,82110,DE
+Gernrode,Auf Den Steinen 18,Sachsen-Anhalt,06507,DE
+Gernsheim,Riedstr 9,Hessen,64579,DE
+Gersfeld,Schlossstr 10,Hessen,36129,DE
+Gerstetten,Steinbeisstr 11,Baden-Württemberg,89547,DE
+Gessertshausen,Hauptstr 21,Bayern,86459,DE
+Gettorf,Ravensberg 4B,Schleswig-Holstein,24214,DE
+Gevelsberg,Mittelstr 44,Nordrhein-Westfalen,58285,DE
+Gevelsberg,Burbecker Str 4,Nordrhein-Westfalen,58285,DE
+Gieboldehausen,Marktstr 35,Niedersachsen,37434,DE
+Gießen,Gießener Str 75,Hessen,35396,DE
+Gifhorn,Gladiolenweg 26,Niedersachsen,38518,DE
+Gilserberg,Bahnhofstr 16,Hessen,34630,DE
+Gladbeck,Horster Str 239,Nordrhein-Westfalen,45968,DE
+Gladbeck,Bülser Str 47,Nordrhein-Westfalen,45964,DE
+Gladbeck,Schwechater Str 38,Nordrhein-Westfalen,45966,DE
+Gladbeck,Münsterländer Str 9,Nordrhein-Westfalen,45968,DE
+Gladbeck,Vossstr 222,Nordrhein-Westfalen,45966,DE
+Gladenbach,Marktstr 7,Hessen,35075,DE
+Glashütten,Limburger Str 33,Hessen,61479,DE
+Glauchau,Auestr 1-3,Sachsen,08371,DE
+Glinde,Markt 4,Schleswig-Holstein,21509,DE
+Glückstadt,Große Kremperstr 9,Schleswig-Holstein,25348,DE
+Gmund,Tegernseer Str 1,Bayern,83703,DE
+Gnarrenburg,Hindenburgstr 52,Niedersachsen,27442,DE
+Goch,Ostring 125,Nordrhein-Westfalen,47574,DE
+Goch,Klosterweg 6-8,Nordrhein-Westfalen,47574,DE
+Göppingen,Vorderer Berg 10,Baden-Württemberg,73035,DE
+Göppingen,Mörikestr 4,Baden-Württemberg,73033,DE
+Göppingen,Tannenstr 2,Baden-Württemberg,73037,DE
+Görlitz,Christoph-Lüders-Str 21,Sachsen,02826,DE
+Gotha,Oststr 51,Thüringen,99867,DE
+Göttingen,Holtenser Landstr 58,Niedersachsen,37079,DE
+Grabenstätt,Marktstr 4,Bayern,83355,DE
+Grabow,Canalstr 16 A,Mecklenburg-Vorpommern,19300,DE
+Grafenau,Stadtplatz 16,Bayern,94481,DE
+Grafenhausen,Kirchsteig 1,Baden-Württemberg,79865,DE
+Grafschaft,Im Kreuzerfeld 1,Rheinland-Pfalz,53501,DE
+Grasellenbach,Siegfriedstr 41,Hessen,64689,DE
+Greding,Bahnhofstr 5,Bayern,91171,DE
+Greifenstein,Herbornerstr 47,Hessen,35753,DE
+Greifswald,Wolgaster Landstr 24,Mecklenburg-Vorpommern,17493,DE
+Greifswald,Fridtjof-Nansen-Str 27,Mecklenburg-Vorpommern,17493,DE
+Greifswald,Rigaer Str 9,Mecklenburg-Vorpommern,17493,DE
+Greiz,Gerhart-Hauptmann-Str 30,Thüringen,07973,DE
+Greven,Emsdettener Str 26,Nordrhein-Westfalen,48268,DE
+Grevenbroich,Kölner Str 56,Nordrhein-Westfalen,41515,DE
+Grevesmühlen,Rehnaer Str 2A,Mecklenburg-Vorpommern,23936,DE
+Grimma,Platz Der Einheit 1-2,Sachsen,04668,DE
+Grimmen,Vietlipper Damm 3,Mecklenburg-Vorpommern,18507,DE
+Grimmen,Tribseeser Str 6,Mecklenburg-Vorpommern,18507,DE
+Groitzsch,Sebastianshof 3,Sachsen,04539,DE
+Gronau,Enscheder Str 122,Nordrhein-Westfalen,48599,DE
+Gronau,Ochtruperstr 83,Nordrhein-Westfalen,48599,DE
+Gronau,Enscheder Str 6,Nordrhein-Westfalen,48599,DE
+Gronau,Merschstr 32-34,Nordrhein-Westfalen,48599,DE
+Groß,Potsdamer Str 8,Brandenburg,14550,DE
+Groß,Hauptstr 68 A,Sachsen-Anhalt,39240,DE
+Großbodungen,Chaussee 66-70,Thüringen,37345,DE
+Großbreitenbach,Johannisstr 1,Thüringen,98701,DE
+Großenkneten,Bahnhofstr 20,Niedersachsen,26197,DE
+Großheirath,Ringstr 3,Bayern,96269,DE
+Großheubach,Beim Trieb 4,Bayern,63920,DE
+Großkarolinenfeld,Karolinenplatz 6,Bayern,83109,DE
+Großostheim,Anne-Frank-Str 12,Bayern,63762,DE
+Großräschen,Ifa-Park 4A,Brandenburg,01983,DE
+Groß-Rohrheim,Rheinstr 11,Hessen,68649,DE
+Großschirma,Leipziger Str 5 A,Sachsen,09603,DE
+Groß-Zimmern,Wilhelm-Leuschner-Str 28,Hessen,64846,DE
+Grünkraut,Nelkenstr 2,Baden-Württemberg,88287,DE
+Guben,Klaus-Herrmann-Str 21,Brandenburg,03172,DE
+Guldental,Brunnengasse 6,Rheinland-Pfalz,55452,DE
+Gummersbach,Dieringhauser Str 119,Nordrhein-Westfalen,51645,DE
+Gummersbach,Hückeswagener Str 48,Nordrhein-Westfalen,51647,DE
+Gundelfingen,Lauinger Str 21,Bayern,89423,DE
+Günthersleben-Wechmar,Am Oberried 7,Thüringen,99869,DE
+Güsten,Thomas-Müntzer-Hof 10,Sachsen-Anhalt,39439,DE
+Guxhagen,Albert-Schweitzer-Allee 16,Hessen,34302,DE
+Haan,Neuer Markt 10,Nordrhein-Westfalen,42781,DE
+Hadamar,Gymnasiumstr 11,Hessen,65589,DE
+Hadamar,Mainzer Landstr 17,Hessen,65589,DE
+Hagen,Leiblstr 28,Nordrhein-Westfalen,58097,DE
+Hagen,Alemannenweg 21,Nordrhein-Westfalen,58119,DE
+Hagen,Bahnhofstr 47,Nordrhein-Westfalen,58095,DE
+Hagen,Rummenohler Str 30A,Nordrhein-Westfalen,58091,DE
+Hagenbach,Ludwigstr 14-16,Rheinland-Pfalz,76767,DE
+Haiger,Bachstr 23,Hessen,35708,DE
+Haimhausen,Hauptstr 23,Bayern,85778,DE
+Hainburg,Feldstr 2,Hessen,63512,DE
+Hainburg,Kirchstr 47-49,Hessen,63512,DE
+Hainichen,Brauhofstr 2,Sachsen,09661,DE
+Halberstadt,Westerhäuser Str 79-86,Sachsen-Anhalt,38820,DE
+Haldensleben,Waldring 115,Sachsen-Anhalt,39340,DE
+Halle,Große Ulrichstr 36,Sachsen-Anhalt,06108,DE
+Halle,Merseburgerstr 97,Sachsen-Anhalt,06112,DE
+Halle,Jessener Str 36,Sachsen-Anhalt,06132,DE
+Halle,Leipziger Str 36,Sachsen-Anhalt,06108,DE
+Halle,Am Gastronom 2,Sachsen-Anhalt,06124,DE
+Halle,Weststr 3,Sachsen-Anhalt,06126,DE
+Haltern,Schalweg 5,Nordrhein-Westfalen,45721,DE
+Hamburg,Kattrepel 10,Hamburg,20095,DE
+Hamburg,Großer Burstah 45,Hamburg,20457,DE
+Hamburg,Fuhlsbüttler Str 257,Hamburg,22307,DE
+Hamburg,Steinbeker Grenzdamm 6,Hamburg,22115,DE
+Hamburg,Schiffbeker Weg 230,Hamburg,22119,DE
+Hamburg,Wandsbeker Chaussee 114,Hamburg,22089,DE
+Hamburg,Geschwister-Scholl-Str 5-9,Hamburg,20251,DE
+Hamburg,Rehrstieg 50 B,Hamburg,21147,DE
+Hamburg,Horner Landstr 202,Hamburg,22111,DE
+Hamburg,Sülldorfer Landstr 11-15,Hamburg,22589,DE
+Hamburg,Berliner Platz 10,Hamburg,22045,DE
+Hamburg,Süderquerweg 650,Hamburg,21037,DE
+Hamburg,Langenhorner Markt 16,Hamburg,22415,DE
+Hamburg,Käkenflur 16B,Hamburg,22419,DE
+Hamburg,Binnenfeldredder 32A,Hamburg,21031,DE
+Hamburg,Luruper Hauptstr 272A,Hamburg,22547,DE
+Hamburg,Rudolf-Klug-Weg 3,Hamburg,22455,DE
+Hamburg,Tibarg 31,Hamburg,22459,DE
+Hamburg,Grünebergstr 85,Hamburg,22763,DE
+Hamburg,Spitzbergenweg 32,Hamburg,22145,DE
+Hamburg,Hermann-Balk-Str 117,Hamburg,22147,DE
+Hamburg,Ahrenshooper Str 2,Hamburg,22147,DE
+Hamburg,Hegeneck 7,Hamburg,22149,DE
+Hamburg,Langenfelder Damm 54 C,Hamburg,22525,DE
+Hamburg,Kanalstr 14,Hamburg,22085,DE
+Hamburg,Friedrich-Ebert-Damm 79,Hamburg,22047,DE
+Hamburg,Georg-Wilhelm-Str 104A,Hamburg,21107,DE
+Hamburg,Kirchdorfer Damm 3,Hamburg,21109,DE
+Hamburg,Trelder Weg 5,Hamburg,21079,DE
+Hameln,Erichstr 1,Niedersachsen,31785,DE
+Hameln,Breiter Weg 1,Niedersachsen,31787,DE
+Hamm,Marktzentrum 20-22,Rheinland-Pfalz,57577,DE
+Hamm,Hammer Str 97,Nordrhein-Westfalen,59075,DE
+Hamm,Marinestr 46,Nordrhein-Westfalen,59075,DE
+Hamm,Fritz-Husemann-Str 28,Nordrhein-Westfalen,59077,DE
+Hamm,Heinrich-Lübke-Str 29,Nordrhein-Westfalen,59065,DE
+Hammelburg,Bahnhofstr 52,Bayern,97762,DE
+Hanau,Salzstr 32,Hessen,63450,DE
+Hanau,Kurt-Schumacher-Platz 1-9,Hessen,63454,DE
+Hanau,Bruchköbeler Landstr 9,Hessen,63452,DE
+Hanau,Dettinger Str 4,Hessen,63450,DE
+Hanhofen,Raiffeisenstr 2,Rheinland-Pfalz,67374,DE
+Hankensbüttel,Handwerkerring 1,Niedersachsen,29386,DE
+Hannover,Sutelstr 2,Niedersachsen,30659,DE
+Hannover,Humboldtstr 4B,Niedersachsen,30169,DE
+Hannover,Schierholzstr 116-132,Niedersachsen,30655,DE
+Hannover,Döhrbruch 20 A-B,Niedersachsen,30559,DE
+Hannover,Große Pranke 3,Niedersachsen,30419,DE
+Hannover,Lange Laube 1-1A,Niedersachsen,30159,DE
+Hannover,Hildesheimer Str 61,Niedersachsen,30169,DE
+Hannover,Marienstr 96,Niedersachsen,30171,DE
+Hannover,An Der Weide 23-25,Niedersachsen,30173,DE
+Hardegsen,Lange Str 23,Niedersachsen,37181,DE
+Haren,Emmelner Str 98A,Niedersachsen,49733,DE
+Haren,Wiesenweg 4,Niedersachsen,49733,DE
+Haren,Wesuweer Hauptstr 44,Niedersachsen,49733,DE
+Harsefeld,Herrenstr 2,Niedersachsen,21698,DE
+Harsewinkel,Hesselteicherstr 2,Nordrhein-Westfalen,33428,DE
+Harsewinkel,Gütersloher Str 29,Nordrhein-Westfalen,33428,DE
+Harsewinkel,Wedekindring 2,Nordrhein-Westfalen,33428,DE
+Harsum,Lindenstr 2,Niedersachsen,31177,DE
+Harxheim,In Den Rohrwiesen 3,Rheinland-Pfalz,55296,DE
+Haselünne,Markt 19-20,Niedersachsen,49740,DE
+Haslach,Engelstr 22,Baden-Württemberg,77716,DE
+Hatten,Hauptstr 12,Niedersachsen,26209,DE
+Hatten,Gartenweg 1,Niedersachsen,26209,DE
+Hattersheim,Frankfurter Str 5,Hessen,65795,DE
+Hattorf,Bahnhofstr 5,Niedersachsen,37197,DE
+Hauenstein,Schulstr 5,Rheinland-Pfalz,76846,DE
+Hausen,Heroldsbacherstr 7,Bayern,91353,DE
+Havixbeck,Hauptstr 52,Nordrhein-Westfalen,48329,DE
+Hechingen,Marktplatz 21,Baden-Württemberg,72379,DE
+Hechthausen,Steinberg 21,Niedersachsen,21755,DE
+Heede,Hauptstr 14,Niedersachsen,26892,DE
+Heide,Markt 36,Schleswig-Holstein,25746,DE
+Heidelberg,Ladenburger Str 26,Baden-Württemberg,69120,DE
+Heidenheim,Am Rathaus 9,Baden-Württemberg,89520,DE
+Heidesheim,Honigstr 4,Rheinland-Pfalz,55262,DE
+Heigenbrücken,Heinrichsthaler Str 1,Bayern,63869,DE
+Heilbronn,Michael-Vehe-Str 20,Baden-Württemberg,74078,DE
+Heilbronn,Ludwigsburger Str 95,Baden-Württemberg,74080,DE
+Heilbronn,Heidelberger Str 90,Baden-Württemberg,74080,DE
+Heilbronn,Sachsenäckerstr 25,Baden-Württemberg,74078,DE
+Heiligenstadt,Sportplatzstr 2,Bayern,91332,DE
+Heimbach,Hengebachstr 28-30,Nordrhein-Westfalen,52396,DE
+Heinersreuth,Fehringer Platz 1,Bayern,95500,DE
+Helmbrechts,Luitpoldstr 26,Bayern,95233,DE
+Helmbrechts,Gunterstr 6,Bayern,95233,DE
+Hemau,Stadtplatz 13,Bayern,93155,DE
+Hemer,Zeppelinstr 66,Nordrhein-Westfalen,58675,DE
+Hemer,Hönnetalstr 251,Nordrhein-Westfalen,58675,DE
+Hemsbach,Grabenstr 6,Baden-Württemberg,69502,DE
+Hemsbach,Gleiwitzer Str 40A + 40B,Baden-Württemberg,69502,DE
+Hengersberg,Passauer Str 4,Bayern,94491,DE
+Hennigsdorf,Berliner Str 77,Brandenburg,16761,DE
+Hennigsdorf,Dorfstr 46,Brandenburg,16761,DE
+Henstedt-Ulzburg,Hamburger Str 22,Schleswig-Holstein,24558,DE
+Herbertingen,Pfarrstr 1,Baden-Württemberg,88518,DE
+Herborn,Marburger Str 52,Hessen,35745,DE
+Herbrechtingen,Schiessbergstr 4-4/2,Baden-Württemberg,89542,DE
+Herdorf,Hauptstr 18,Rheinland-Pfalz,57562,DE
+Herdorf,Alte Hütte 14,Rheinland-Pfalz,57562,DE
+Herford,Schwarzenmoorstr 123,Nordrhein-Westfalen,32049,DE
+Herleshausen,Auf Der Klingen 1,Hessen,37293,DE
+Herne,Marktstr 4,Nordrhein-Westfalen,44651,DE
+Herne,Hauptstr 242,Nordrhein-Westfalen,44649,DE
+Herne,Hauptstr 343,Nordrhein-Westfalen,44649,DE
+Heroldsberg,Hauptstr 73,Bayern,90562,DE
+Herrieden,Industriestr 6,Bayern,91567,DE
+Hersbruck,Nürnberger Str 1-3,Bayern,91217,DE
+Herschbach,Bahnhofstr 1,Rheinland-Pfalz,56249,DE
+Herten,Dresdener Str 3,Nordrhein-Westfalen,45699,DE
+Herzberg,Kaxdorfer Weg 1,Brandenburg,04916,DE
+Herzberg,Marktplatz 13,Niedersachsen,37412,DE
+Herzogenaurach,Hauptstr 3,Bayern,91074,DE
+Hesel,Im Brink 1,Niedersachsen,26835,DE
+Hessen,Nobbenstr 22,Sachsen-Anhalt,38835,DE
+Hettenleidelheim,Hauptstr 41A,Rheinland-Pfalz,67310,DE
+Heubach,Hauptstr 31,Baden-Württemberg,73540,DE
+Hiddenhausen,Löhnerstr 189,Nordrhein-Westfalen,32120,DE
+Hiddenhausen,Obere Talstr 16,Nordrhein-Westfalen,32120,DE
+Hilchenbach,Bruchstr 9,Nordrhein-Westfalen,57271,DE
+Hilden,Clarenbachweg 1,Nordrhein-Westfalen,40724,DE
+Hildesheim,Ehrlicherstr 26,Niedersachsen,31135,DE
+Hildesheim,Winkelstr 8A,Niedersachsen,31137,DE
+Hildesheim,Osterstr 51,Niedersachsen,31134,DE
+Hilter,Am Thie 6,Niedersachsen,49176,DE
+Hilzingen,Mägdebergstr 1,Baden-Württemberg,78247,DE
+Hirrlingen,Hechinger Str 49,Baden-Württemberg,72145,DE
+Hirschaid,Nürnberger Str 47,Bayern,96114,DE
+Hirschberg,Gerberstr 1,Thüringen,07927,DE
+Hochdorf,Kirchstr 16,Baden-Württemberg,73269,DE
+Hochheim,Frankfurter Str 15,Hessen,65239,DE
+Höchstädt,Herzogin-Anna-Str 5,Bayern,89420,DE
+Höckendorf,Freiberger Str 12,Sachsen,01774,DE
+Hof,Hauptstr 23-25,Rheinland-Pfalz,56472,DE
+Hof,Leopoldstr 14,Bayern,95030,DE
+Hofgeismar,Elisabethstr 1,Hessen,34369,DE
+Hohberg,Ludwig-Huber-Str 21,Baden-Württemberg,77749,DE
+Hohen,Birkenwerder Str 8,Brandenburg,16562,DE
+Hohenlockstedt,Kieler Str 78,Schleswig-Holstein,25551,DE
+Hohenmölsen,Wilhelm-Külz-Str 8,Sachsen-Anhalt,06679,DE
+Hohentengen,Hauptstr 14,Baden-Württemberg,88367,DE
+Hohenwart,Neuburger Str 13,Bayern,86558,DE
+Holdorf,Grosse Str 14,Niedersachsen,49451,DE
+Holzappel,Hauptstr 31,Rheinland-Pfalz,56379,DE
+Holzgerlingen,Bahnhofstr 5,Baden-Württemberg,71088,DE
+Holzgerlingen,Böblinger Str 8,Baden-Württemberg,71088,DE
+Holzminden,Obere Str 3,Niedersachsen,37603,DE
+Holzminden,Am Wildenkiel 8,Niedersachsen,37603,DE
+Horn-Bad,Mittelstr 52,Nordrhein-Westfalen,32805,DE
+Hornberg,Hauptstr 70,Baden-Württemberg,78132,DE
+Horneburg,Am Poggenpohl 1,Niedersachsen,21640,DE
+Horstmar,Münsterstr 3-5,Nordrhein-Westfalen,48612,DE
+Hösbach,Hauptstr 92-94,Bayern,63768,DE
+Hosenfeld,Schulstr 2,Hessen,36154,DE
+Hövelhof,Sennestr 11,Nordrhein-Westfalen,33161,DE
+Höxter,Am Markt 5,Nordrhein-Westfalen,37671,DE
+Höxter,Westfalenstr 36,Nordrhein-Westfalen,37671,DE
+Hoyerswerda,Schulstr 12 B,Sachsen,02977,DE
+Hoyerswerda,Ziolkowskistr 18,Sachsen,02977,DE
+Hoyerswerda,Frederic-Joliot-Curie-Str 23-2,Sachsen,02977,DE
+Hoym,Nachterstedter Str 1,Sachsen-Anhalt,06467,DE
+Hückelhoven,Ratheimer Markt 4,Nordrhein-Westfalen,41836,DE
+Hürth,Weierstr 37,Nordrhein-Westfalen,50354,DE
+Hürth,Kaulardstr 8-12,Nordrhein-Westfalen,50354,DE
+Hürth,Kaulardstr 62-64,Nordrhein-Westfalen,50354,DE
+Husby,Flensburger Str 24,Schleswig-Holstein,24975,DE
+Hüttenberg,Frankfurter Str 20,Hessen,35625,DE
+Ibbenbüren,Mettingerstr 39,Nordrhein-Westfalen,49479,DE
+Ibbenbüren,Bahnhofstr 20,Nordrhein-Westfalen,49477,DE
+Ichenhausen,Wiesgasse 1,Bayern,89335,DE
+Ihlow,2.Kompanieweg 4,Niedersachsen,26632,DE
+Illingen,Eckstr 8,Saarland,66557,DE
+Ilmenau,Ziolkowskistr 25,Thüringen,98693,DE
+Ilsede,Eichstr 10,Niedersachsen,31241,DE
+Immenstaad,Hauptstr 2,Baden-Württemberg,88090,DE
+Immenstadt,Marienplatz 18,Bayern,87509,DE
+Ingolstadt,Asamstr 75,Bayern,85053,DE
+Ingolstadt,Münchener Str 91,Bayern,85051,DE
+Iserlohn,Ortlohstr 35,Nordrhein-Westfalen,58638,DE
+Iserlohn,Laventiestr 15,Nordrhein-Westfalen,58640,DE
+Isernhagen,Rehbocksweg 2,Niedersachsen,30916,DE
+Ismaning,Münchenerstr 52,Bayern,85737,DE
+Ittlingen,Hauptstr 53,Baden-Württemberg,74930,DE
+Itzehoe,Graf-Egbert-Ring 10-12,Schleswig-Holstein,25524,DE
+Jessen,Baderhag 2,Sachsen-Anhalt,06917,DE
+Jettingen-Scheppach,Hauptstr 103A,Bayern,89343,DE
+Jever,Schützenhofstr 20,Niedersachsen,26441,DE
+Jüchen,Odenkirchener Str 17,Nordrhein-Westfalen,41363,DE
+Juist,Strandstr 4,Niedersachsen,26571,DE
+Jülich,Nordstr 7,Nordrhein-Westfalen,52428,DE
+Kaarst,Grünstr 21,Nordrhein-Westfalen,41564,DE
+Kaarst,Maubisstr 40,Nordrhein-Westfalen,41564,DE
+Kaarst,Kaarster Str 53,Nordrhein-Westfalen,41564,DE
+Kaarst,Antoniusstr 47,Nordrhein-Westfalen,41564,DE
+Kaiserslautern,Siegelbacher Str 126,Rheinland-Pfalz,67659,DE
+Kaiserslautern,Eisenbahnstr 31,Rheinland-Pfalz,67655,DE
+Kaiserslautern,Slevogtstr 36-38,Rheinland-Pfalz,67659,DE
+Kaiserslautern,Otterberger Str 50,Rheinland-Pfalz,67659,DE
+Kalkar,Gocher Str 3,Nordrhein-Westfalen,47546,DE
+Kamp-,Moerser Str 51-59,Nordrhein-Westfalen,47475,DE
+Kappeln,Poststr 14-16,Schleswig-Holstein,24376,DE
+Kappelrodeck,Hauptstr 94,Baden-Württemberg,77876,DE
+Karben,Friedhofsweg 2,Hessen,61184,DE
+Karlsbad,Hauptstr 86,Baden-Württemberg,76307,DE
+Karlsdorf-Neuthard,Amalienstr 20,Baden-Württemberg,76689,DE
+Karlsfeld,Rathausstr 40-42,Bayern,85757,DE
+Karlsruhe,Gebhardstr 46,Baden-Württemberg,76135,DE
+Karlsruhe,Büchelbergstr 2,Baden-Württemberg,76229,DE
+Karlsruhe,Yorckstr 6,Baden-Württemberg,76185,DE
+Karlsruhe,Ortsstr 6,Baden-Württemberg,76228,DE
+Karlstein,Hanauer Landstr 79,Bayern,63791,DE
+Kassel,Burgstr 2-4,Hessen,34123,DE
+Kassel,Wolfhager Str 164,Hessen,34127,DE
+Kassel,Unterneustädter Kirchplatz 2-3,Hessen,34123,DE
+Kassel,Vautswiesenweg 15,Hessen,34123,DE
+Katzhütte,Oelzner Str 3,Thüringen,98746,DE
+Kefenrod,Hitzkirchener Str 7,Hessen,63699,DE
+Kehl,Rastatter Str 28,Baden-Württemberg,77694,DE
+Kelbra,Mittelstr 20,Sachsen-Anhalt,06537,DE
+Kelheim,Schäfflerstr 1,Bayern,93309,DE
+Kelkheim,Frankfurter Str 44,Hessen,65779,DE
+Kelkheim,Hornauer Str 8,Hessen,65779,DE
+Kelkheim,Frankfurter Str 141,Hessen,65779,DE
+Kell,Weidenstr 3,Rheinland-Pfalz,54427,DE
+Kellinghusen,Lindenstr 28,Schleswig-Holstein,25548,DE
+Kelsterbach,An Der Friedrichshöhe 7,Hessen,65451,DE
+Kempen,Studentenacker 7,Nordrhein-Westfalen,47906,DE
+Kempten,Im Thingers 26-28,Bayern,87439,DE
+Kernen,Waiblinger Str 14,Baden-Württemberg,71394,DE
+Kernen,Klosterstr 14,Baden-Württemberg,71394,DE
+Kerpen,Kerpener Str 53,Nordrhein-Westfalen,50170,DE
+Kevelaer,Peter-Plümpe-Platz 5,Nordrhein-Westfalen,47623,DE
+Kevelaer,Kevelaerstr 9,Nordrhein-Westfalen,47626,DE
+Kiefersfelden,Kufsteiner Str 16,Bayern,83088,DE
+Kiel,Holstenbrücke 3,Schleswig-Holstein,24103,DE
+Kiel,Exerzierplatz 26,Schleswig-Holstein,24103,DE
+Kiel,Elisabethstr 68 A,Schleswig-Holstein,24143,DE
+Kiel,Hardenbergstr 21,Schleswig-Holstein,24118,DE
+Kiel,Ankerplatz 9,Schleswig-Holstein,24159,DE
+Kiel,Amrumring 2,Schleswig-Holstein,24107,DE
+Kipfenberg,Bahnhofstr 1,Bayern,85110,DE
+Kirchardt,Heilbronnerstr 1-3,Baden-Württemberg,74912,DE
+Kirchberg,Lengenfelder Str 41,Sachsen,08107,DE
+Kirchdorf,Bahrenborsteler Str 8,Niedersachsen,27245,DE
+Kirchdorf,Von-Siemens-Str 2,Bayern,84375,DE
+Kirchehrenbach,Pretzfelder Str 1,Bayern,91356,DE
+Kirchenlamitz,Marktplatz 10,Bayern,95158,DE
+Kirchgellersen,Lüneburger Str 5,Niedersachsen,21394,DE
+Kirchheim,Hauptstr 28,Hessen,36275,DE
+Kirchheim,Obertorstr 2,Bayern,97268,DE
+Kirchheim,Alleenstr 56,Baden-Württemberg,73230,DE
+Kirchheim,Stuttgarter Str 2,Baden-Württemberg,73230,DE
+Kirchhundem,Hagener Str 6 A,Nordrhein-Westfalen,57399,DE
+Kirchseeon,Ostring 1,Bayern,85614,DE
+Kirkel,Hauptstr 42,Saarland,66459,DE
+Kirn,Steinweg 4-6,Rheinland-Pfalz,55606,DE
+Kitzingen,Königsplatz 2,Bayern,97318,DE
+Kleinblittersdorf,Saarbrücker Str 1-7,Saarland,66271,DE
+Kleinwallstadt,Frühlingstr 10-12,Bayern,63839,DE
+Klettgau,Hauptstr 75,Baden-Württemberg,79771,DE
+Kleve,Hagsche Str 40,Nordrhein-Westfalen,47533,DE
+Kleve,Emmericher Str 114,Nordrhein-Westfalen,47533,DE
+Koblenz,Potsdamer Str 13-17,Rheinland-Pfalz,56075,DE
+Koblenz,Trierer Str 296,Rheinland-Pfalz,56072,DE
+Koblenz,Im Kimmelberg 2-4,Rheinland-Pfalz,56072,DE
+Koblenz,Hochstr 86,Rheinland-Pfalz,56070,DE
+Kolbermoor,Rosenheimer Str 9,Bayern,83059,DE
+Köln,Hohe Str 12,Nordrhein-Westfalen,50667,DE
+Köln,Sandweg 6,Nordrhein-Westfalen,50827,DE
+Köln,Geiersbergstr 27,Nordrhein-Westfalen,50765,DE
+Köln,Alte Wipperfürther Str 82,Nordrhein-Westfalen,51065,DE
+Köln,Warthestr 18-20,Nordrhein-Westfalen,50765,DE
+Köln,Mailänder Passage 1-9,Nordrhein-Westfalen,50765,DE
+Köln,Deutzer Freiheit 109,Nordrhein-Westfalen,50679,DE
+Köln,Chorbuschstr 46,Nordrhein-Westfalen,50765,DE
+Köln,Peter-Gries-Str 12-18,Nordrhein-Westfalen,51061,DE
+Köln,Paulinenhofstr 2-4,Nordrhein-Westfalen,51061,DE
+Köln,Bergisch Gladbacher Str 557-55,Nordrhein-Westfalen,51067,DE
+Köln,Odenwaldstr 23,Nordrhein-Westfalen,51105,DE
+Köln,Kalker Hauptstr 183,Nordrhein-Westfalen,51103,DE
+Köln,Lülsdorfer Str 134,Nordrhein-Westfalen,51143,DE
+Köln,Frankfurter Str 75-77,Nordrhein-Westfalen,51065,DE
+Köln,Hansaring 26,Nordrhein-Westfalen,50670,DE
+Köln,Neusser Str 55,Nordrhein-Westfalen,50670,DE
+Köln,Merowingerstr 10,Nordrhein-Westfalen,50677,DE
+Köln,Neusser Str 280,Nordrhein-Westfalen,50733,DE
+Köln,Steinrutschweg 58,Nordrhein-Westfalen,51107,DE
+Köln,Siegburger Str 351-353,Nordrhein-Westfalen,51105,DE
+Köln,Aachener Str 1253,Nordrhein-Westfalen,50858,DE
+Köln,Neusser Str 532,Nordrhein-Westfalen,50737,DE
+Köln,Höninger Weg 181,Nordrhein-Westfalen,50969,DE
+Königsbrunn,Bürgermeister-Wohlfahrt-Str 10,Bayern,86343,DE
+Königsbrunn,Schwabenstr 41,Bayern,86343,DE
+Königstein,Pirnaer Str 19,Sachsen,01824,DE
+Königswinter,An Der Alten Schule 9,Nordrhein-Westfalen,53639,DE
+Königswinter,Siebengebirgsstr 70,Nordrhein-Westfalen,53639,DE
+Konradsreuth,Weberstr 1,Bayern,95176,DE
+Kordel,Bahnhofstr 9,Rheinland-Pfalz,54306,DE
+Körner,Dammstr 8,Thüringen,99998,DE
+Kornwestheim,Bahnhofstr 10,Baden-Württemberg,70806,DE
+Korschenbroich,Hannengasse 4-10,Nordrhein-Westfalen,41352,DE
+Köthen,Leopoldstr 63-67,Sachsen-Anhalt,06366,DE
+Köthen,Holzmarkt 10,Sachsen-Anhalt,06366,DE
+Kraichtal,Karlsruher Str 17,Baden-Württemberg,76703,DE
+Kraichtal,Leopoldstr 1,Baden-Württemberg,76703,DE
+Krakow,Plauer Str 16,Mecklenburg-Vorpommern,18292,DE
+Kranichfeld,Alexanderstr 14,Thüringen,99448,DE
+Krefeld,Kölnerstr 557,Nordrhein-Westfalen,47807,DE
+Krefeld,Honschaft-Rath-Platz 15,Nordrhein-Westfalen,47829,DE
+Kreischa,Am Mühlgraben 5,Sachsen,01731,DE
+Kreuztal,Bottenbacherstr 1,Nordrhein-Westfalen,57223,DE
+Kreuzwertheim,Hauptstr 1-3,Bayern,97892,DE
+Kriftel,Frankfurter Str 19,Hessen,65830,DE
+Krombach,Hauptstr 158,Bayern,63829,DE
+Kröpelin,Rostocker Str 116,Mecklenburg-Vorpommern,18236,DE
+Kruft,Bachstr 20A,Rheinland-Pfalz,56642,DE
+Krün,Karwendelstr 2,Bayern,82494,DE
+Kulmbach,Klostergasse 1,Bayern,95326,DE
+Külsheim,Hauptstr 42,Baden-Württemberg,97900,DE
+Kümmersbruck,Porschestr 2,Bayern,92245,DE
+Künzell,In Den Gründen 2A,Hessen,36093,DE
+Laatzen,Hildesheimer Str 352-362,Niedersachsen,30880,DE
+Laer,Königstr 2,Nordrhein-Westfalen,48366,DE
+Lage,Bergstr 6,Nordrhein-Westfalen,32791,DE
+Lahnstein,Hochstr 41,Rheinland-Pfalz,56112,DE
+Lambrecht,Hauptstr 57A,Rheinland-Pfalz,67466,DE
+Lampertheim,Kaiserstr 21,Hessen,68623,DE
+Lampertheim,Flatenstr 2,Hessen,68623,DE
+Lamstedt,Kleine Str 9,Niedersachsen,21769,DE
+Landesbergen,Lange Str 10,Niedersachsen,31628,DE
+Landsberg,Zörbiger Str 10,Sachsen-Anhalt,06188,DE
+Landshut,Straubinger Str 10,Bayern,84030,DE
+Landshut,Klötzlmüllerstr 60,Bayern,84034,DE
+Langelsheim,Die Meine 1,Niedersachsen,38685,DE
+Langen,Bahnstr 29,Hessen,63225,DE
+Langen,Bahnstr 67,Hessen,63225,DE
+Langenfeld,Zum Stadion 73,Nordrhein-Westfalen,40764,DE
+Langenfeld,Marktplatz 3,Nordrhein-Westfalen,40764,DE
+Langenneufnach,Raiffeisenstr 3A,Bayern,86863,DE
+Langensendelbach,Hauptstr 12,Bayern,91094,DE
+Langenzenn,Nürnberger Str 53-55,Bayern,90579,DE
+Langwedel,Grosse Str 49,Niedersachsen,27299,DE
+Lappersdorf,Regensburgerstr 4,Bayern,93138,DE
+Lastrup,Kirchstr 5,Niedersachsen,49688,DE
+Lathen,Bahnhofstr 28,Niedersachsen,49762,DE
+Laubach,Marktplatz 2,Hessen,35321,DE
+Lauben,Kemptener Str 30,Bayern,87493,DE
+Laufach,Sachsenhäuser Str 4,Bayern,63846,DE
+Laufen,Schlossplatz 1,Bayern,83410,DE
+Lauscha,Strasse Des Friedens 8 B,Thüringen,98724,DE
+Lauterbach,Pfarrer-Sieger-Str 21,Baden-Württemberg,78730,DE
+Lautertal,Nibelungenstr 716,Hessen,64686,DE
+Lechbruck,Bahnhofstr 15,Bayern,86983,DE
+Lehesten,Obere Marktstr 6,Thüringen,07349,DE
+Leichlingen,Gartenstr 4-6,Nordrhein-Westfalen,42799,DE
+Leimen,Theodor-Heuss-Str 44,Baden-Württemberg,69181,DE
+Leinefelde-Worbis,Herderstr 1,Thüringen,37327,DE
+Leinefelde-Worbis,Bahnhofstr 23,Thüringen,37327,DE
+Leinfelden-Echterdingen,Filderstr 50/1,Baden-Württemberg,70771,DE
+Leipzig,Pestalozzistr 68,Sachsen,04178,DE
+Leipzig,Landsberger Str 46,Sachsen,04157,DE
+Leipzig,Dieskaustr 204,Sachsen,04249,DE
+Leipzig,Plovdiver Str 36,Sachsen,04205,DE
+Leipzig,Georg-Schwarz-Str 92-96,Sachsen,04179,DE
+Leipzig,Klingenstr 40,Sachsen,04229,DE
+Leipzig,Rödelstr 18,Sachsen,04229,DE
+Leipzig,Gorkistr 124,Sachsen,04347,DE
+Leipzig,Karl-Liebknecht-Str 21-23,Sachsen,04107,DE
+Leipzig,Ranstädter Steinweg 20,Sachsen,04109,DE
+Lengefeld,Feldstr 52,Sachsen,09514,DE
+Lennestadt,Hundemstr 25,Nordrhein-Westfalen,57368,DE
+Lennestadt,Freiheit 36,Nordrhein-Westfalen,57368,DE
+Lennestadt,Meggener Str 32,Nordrhein-Westfalen,57368,DE
+Lennestadt,Winterberger Str 42,Nordrhein-Westfalen,57368,DE
+Leonberg,Breslauer Str 19,Baden-Württemberg,71229,DE
+Leutenbach,Nellmersbacher Str 3-5,Baden-Württemberg,71397,DE
+Leutkirch,Marktstr 14,Baden-Württemberg,88299,DE
+Leverkusen,Alkenrather Str 15,Nordrhein-Westfalen,51377,DE
+Leverkusen,Hitdorfer Str 152,Nordrhein-Westfalen,51371,DE
+Leverkusen,Hardenbergstr 54-55,Nordrhein-Westfalen,51373,DE
+Leverkusen,Lützenkirchener Str 417,Nordrhein-Westfalen,51381,DE
+Leverkusen,Kölner Str 55,Nordrhein-Westfalen,51379,DE
+Leverkusen,Lützenkirchener Str 158,Nordrhein-Westfalen,51381,DE
+Leverkusen,Königsberger Platz 10,Nordrhein-Westfalen,51371,DE
+Leverkusen,Bergische Landstr 26,Nordrhein-Westfalen,51375,DE
+Lichte,Saalfelder Str 1,Thüringen,98739,DE
+Lichtenau,Hauptstr 10,Baden-Württemberg,77839,DE
+Lichtenau,Finkestr 29,Nordrhein-Westfalen,33165,DE
+Lichtenfels,Marktplatz 10,Bayern,96215,DE
+Lichtenfels,Landesstr 36,Hessen,35104,DE
+Lichtenstein,Friedrich-Ludwig-Jahn-Str 2B,Sachsen,09350,DE
+Lichtenstein,Holzelfinger Str 6-8,Baden-Württemberg,72805,DE
+Lichtentanne,Thanhofer Str 7,Sachsen,08115,DE
+Liebenburg,Kirchlinde 2,Niedersachsen,38704,DE
+Lieberose,Cottbuser Str 79,Brandenburg,15868,DE
+Limburg,Westerwaldstr 111-113,Hessen,65549,DE
+Limburg,Untergasse 3,Hessen,65555,DE
+Lindau,Langenweg 43,Bayern,88131,DE
+Linden,Bahnhofstr 85,Hessen,35440,DE
+Lindenberg,Hauptstr 66,Bayern,88161,DE
+Lindern,Löninger Str 2-4,Niedersachsen,49699,DE
+Lindlar,Kölner Str 18,Nordrhein-Westfalen,51789,DE
+Lindlar,Montanusstr 6,Nordrhein-Westfalen,51789,DE
+Lingen,Bauerntanzstr 10,Niedersachsen,49808,DE
+Lingen,Antoniusstr 19,Niedersachsen,49811,DE
+Lingen,Bramscher Str 29,Niedersachsen,49811,DE
+Lingen,Jägerplatz 3,Niedersachsen,49811,DE
+Lingenfeld,Hauptstr 35,Rheinland-Pfalz,67360,DE
+Lippetal,Hauptstr 35,Nordrhein-Westfalen,59510,DE
+Lippstadt,Parkstr 15,Nordrhein-Westfalen,59556,DE
+Lippstadt,Schleusenstr 11,Nordrhein-Westfalen,59558,DE
+Lippstadt,Lippestr 11,Nordrhein-Westfalen,59558,DE
+Lippstadt,Triftweg 11,Nordrhein-Westfalen,59555,DE
+Löbau,Breitscheidstr 21,Sachsen,02708,DE
+Löbau,Breitscheidstr 2,Sachsen,02708,DE
+Loburg,Markt 15-17,Sachsen-Anhalt,39279,DE
+Löchgau,Hauptstr 52-54,Baden-Württemberg,74369,DE
+Lohfelden,Berliner Str 1,Hessen,34253,DE
+Lohfelden,Wellerröder Str 20,Hessen,34253,DE
+Lohmar,Lohmarer Str 3,Nordrhein-Westfalen,53797,DE
+Löhnberg,Auf Dem Kalk 2,Hessen,35792,DE
+Löhne,Albert-Schweitzer-Str 37,Nordrhein-Westfalen,32584,DE
+Löhne,Königstr 7,Nordrhein-Westfalen,32584,DE
+Lohr,Kellereigasse 1,Bayern,97816,DE
+Lohr,Vorstadtstr 15-17,Bayern,97816,DE
+Lohsa,Am Markt 5,Sachsen,02999,DE
+Loitz,Marktstr 183,Mecklenburg-Vorpommern,17121,DE
+Löningen,Poststr 12,Niedersachsen,49624,DE
+Lörrach,Käppelestr 10,Baden-Württemberg,79540,DE
+Lößnitz,Obergraben 2,Sachsen,08294,DE
+Lottstetten,Hauptstr 39,Baden-Württemberg,79807,DE
+Lübbecke,Kreuzbrede 6,Nordrhein-Westfalen,32312,DE
+Lübeck,Mühlenstr 27,Schleswig-Holstein,23552,DE
+Lübeck,Große Burgstr 27-29,Schleswig-Holstein,23552,DE
+Lübeck,August-Bebel-Str 40-42,Schleswig-Holstein,23560,DE
+Lübeck,Paul-Behncke-Str 65,Schleswig-Holstein,23566,DE
+Lübeck,Helmholtzstr 15,Schleswig-Holstein,23562,DE
+Lübeck,Nibelungenstr 41,Schleswig-Holstein,23562,DE
+Lübeck,Hansestr 14,Schleswig-Holstein,23558,DE
+Lüchow,Amtsweg 6,Niedersachsen,29439,DE
+Lüdenscheid,Kluser Str 41,Nordrhein-Westfalen,58511,DE
+Lüdenscheid,Wilhelmstr 33,Nordrhein-Westfalen,58511,DE
+Lüdenscheid,Uhlandstr 1,Nordrhein-Westfalen,58513,DE
+Lüdenscheid,Kölner Str 90,Nordrhein-Westfalen,58509,DE
+Lüdinghausen,Hauptstr 4,Nordrhein-Westfalen,59348,DE
+Ludwigsau,Industriestr 8,Hessen,36251,DE
+Ludwigsfelde,Potsdamer Str 51-53,Brandenburg,14974,DE
+Ludwigshafen,Prinzregentenstr 58,Rheinland-Pfalz,67063,DE
+Ludwigshafen,Carl-Bosch-Str 170-172,Rheinland-Pfalz,67063,DE
+Ludwigshafen,Kärntner Str 19,Rheinland-Pfalz,67065,DE
+Ludwigshafen,Edigheimer Str 32,Rheinland-Pfalz,67069,DE
+Ludwigshafen,Maxdorfer Str 4,Rheinland-Pfalz,67071,DE
+Ludwigshafen,Mundenheimer Str 237,Rheinland-Pfalz,67061,DE
+Ludwigshafen,Mundenheimer Str 8,Rheinland-Pfalz,67061,DE
+Ludwigslust,Suhrlandstr 4,Mecklenburg-Vorpommern,19288,DE
+Lüneburg,Rosenstr 10,Niedersachsen,21335,DE
+Lüneburg,St. Stephanus-Passage 10,Niedersachsen,21337,DE
+Lünen,Alstedder Str 136,Nordrhein-Westfalen,44534,DE
+Lünen,Waltroper Str 26,Nordrhein-Westfalen,44536,DE
+Lünen,Münsterstr 75,Nordrhein-Westfalen,44534,DE
+Lünen,Lange Str 56,Nordrhein-Westfalen,44532,DE
+Lünen,Jägerstr 44,Nordrhein-Westfalen,44532,DE
+Lustadt,Obere Hauptstr 275,Rheinland-Pfalz,67363,DE
+Lutherstadt,Puschkinstr 25,Sachsen-Anhalt,06886,DE
+Lutter,Bohlweg 1A,Niedersachsen,38729,DE
+Lützen,Lindenweg 20,Sachsen-Anhalt,06686,DE
+Magdeburg,Halberstädter Chaussee 123,Sachsen-Anhalt,39116,DE
+Magdeburg,Scheidebuschstr 30,Sachsen-Anhalt,39126,DE
+Magdeburg,Alt Salbke 48A-51/52,Sachsen-Anhalt,39122,DE
+Mainburg,Abensberger Str 25,Bayern,84048,DE
+Mainhausen,Babenhäuser Str 14,Hessen,63533,DE
+Mainleus,Bahnhofsvorplatz 1 A,Bayern,95336,DE
+Mainz,Flachsmarkt 2,Rheinland-Pfalz,55116,DE
+Mainz,Adolf-Kolping-Str 4,Rheinland-Pfalz,55116,DE
+Mainz,Römerstr 13,Rheinland-Pfalz,55129,DE
+Mainz,Nestlestr 63,Rheinland-Pfalz,55120,DE
+Mainz,Hindenburgstr 18,Rheinland-Pfalz,55118,DE
+Mainz,Bleichstr 43,Rheinland-Pfalz,55130,DE
+Mainz,Marktstr 1-3,Hessen,55252,DE
+Mainz,Teufelssprung 6,Hessen,55246,DE
+Mainz,Hauptstr 163,Hessen,55246,DE
+Malchin,Steinstr 14,Mecklenburg-Vorpommern,17139,DE
+Malchow,Rostocker Str 7 A,Mecklenburg-Vorpommern,17213,DE
+Malterdingen,Lindenweg 1,Baden-Württemberg,79364,DE
+Mamming,Schwaigener Str 18,Bayern,94437,DE
+Mannheim,Mittelstr 52,Baden-Württemberg,68169,DE
+Mannheim,Sandhofer Str 327,Baden-Württemberg,68307,DE
+Mannheim,Rastenburger Str 56,Baden-Württemberg,68307,DE
+Mannheim,Oppauer Str 14,Baden-Württemberg,68305,DE
+Marburg,Universitätsstr 15,Hessen,35037,DE
+Marienhafe,Rosenstr 19,Niedersachsen,26529,DE
+Markgröningen,Ostergasse 12,Baden-Württemberg,71706,DE
+Markkleeberg,Dösener Str 1,Sachsen,04416,DE
+Marktbreit,Ochsenfurter Str 7,Bayern,97340,DE
+Marktleuthen,Humboldtstr 18,Bayern,95168,DE
+Marktrodach,Im Gries 1A,Bayern,96364,DE
+Marl,Loestr 6,Nordrhein-Westfalen,45768,DE
+Marl,Wacholderstr 2,Nordrhein-Westfalen,45770,DE
+Marlow,Otto-Grothewohl-Str 19,Mecklenburg-Vorpommern,18337,DE
+Maulbronn,Frankfurter Str 42,Baden-Württemberg,75433,DE
+Maulburg,Webereistr 1-3,Baden-Württemberg,79689,DE
+Medebach,Brunartstr 5 A,Nordrhein-Westfalen,59964,DE
+Meerbusch,Uerdinger Str 79,Nordrhein-Westfalen,40668,DE
+Meißen,Ossietzkystr 53,Sachsen,01662,DE
+Meldorf,Süderstr 1,Schleswig-Holstein,25704,DE
+Melle,Dürrenberger Ring 16-20,Niedersachsen,49324,DE
+Melle,Hauptstr 25,Niedersachsen,49326,DE
+Melsungen,Fritzlarer Str 2,Hessen,34212,DE
+Memmelsdorf,Stockseestr 40-42,Bayern,96117,DE
+Mengerskirchen,Zum Sportzentrum 6,Hessen,35794,DE
+Merchweiler,Wilhelmstr 1,Saarland,66589,DE
+Mering,Wallbergstr 20,Bayern,86415,DE
+Merklingen,Hauptstr 37,Baden-Württemberg,89188,DE
+Merseburg,Bahnhofstr 12,Sachsen-Anhalt,06217,DE
+Merseburg,Querfurter Str 4,Sachsen-Anhalt,06217,DE
+Merzenich,Lindenstr 10,Nordrhein-Westfalen,52399,DE
+Meschede,Gutenbergstr 9,Nordrhein-Westfalen,59872,DE
+Meßkirch,Hauptstr 32,Baden-Württemberg,88605,DE
+Meßstetten,Ebinger Str 23,Baden-Württemberg,72469,DE
+Metelen,Sendplatz 3,Nordrhein-Westfalen,48629,DE
+Mettingen,Landrat-Schultz-Str 22,Nordrhein-Westfalen,49497,DE
+Miesbach,Stadtplatz 10,Bayern,83714,DE
+Mihla,Feldstr 8,Thüringen,99826,DE
+Mildenau,Annaberger Str 12,Sachsen,09456,DE
+Minden,Stiftsallee 128,Nordrhein-Westfalen,32425,DE
+Mirow,Retzower Str 21,Mecklenburg-Vorpommern,17252,DE
+Mitwitz,Kronacherstr 16,Bayern,96268,DE
+Möckmühl,Untere Gasse 28,Baden-Württemberg,74219,DE
+Moers,Bonifatiusstr 92,Nordrhein-Westfalen,47441,DE
+Moers,Moselstr 59,Nordrhein-Westfalen,47443,DE
+Mönchengladbach,Konstantinplatz 10,Nordrhein-Westfalen,41238,DE
+Mönchengladbach,Neusser Str 260-262,Nordrhein-Westfalen,41065,DE
+Mönchengladbach,Erzbergerstr 46-48,Nordrhein-Westfalen,41061,DE
+Mönchengladbach,Burgfreiheit 45,Nordrhein-Westfalen,41199,DE
+Mönchengladbach,Sperberstr 12,Nordrhein-Westfalen,41239,DE
+Mönchengladbach,Roermonder Str 125A,Nordrhein-Westfalen,41068,DE
+Mönchengladbach,Hans-Böckler-Str 19,Nordrhein-Westfalen,41063,DE
+Monheim,Gartzenweg 1,Nordrhein-Westfalen,40789,DE
+Monheim,Benrather Str 48,Nordrhein-Westfalen,40789,DE
+Montabaur,Bahnhofsplatz,Rheinland-Pfalz,56410,DE
+Moormerland,Schubertstr 1,Niedersachsen,26802,DE
+Moosburg,Thalbacherstr 42-44,Bayern,85368,DE
+Moosburg,Münchner Str 4,Bayern,85368,DE
+Mörfelden-Walldorf,Alpenring 2,Hessen,64546,DE
+Moringen,Rathausplatz 2,Niedersachsen,37186,DE
+Morschen,Paul-Frankfurth-Str 42,Hessen,34326,DE
+Mössingen,Bahnhofstr 9,Baden-Württemberg,72116,DE
+Muggensturm,Karlsruher Str 14,Baden-Württemberg,76461,DE
+Mühlacker,Dr.-Simons-Str 4-10,Baden-Württemberg,75417,DE
+Mühldorf,Stadtplatz 85-87,Bayern,84453,DE
+Mühlhausen,Rudolf-Breitscheid-Str 24,Thüringen,99974,DE
+Mühlhausen,Wanfriederstr 97,Thüringen,99974,DE
+Mühlhausen,An Der Burg 25,Thüringen,99974,DE
+Mulda/Sa.,Hauptstr 33,Sachsen,09619,DE
+Muldenstausee,Neue Burgkemnitzer Str 20,Sachsen-Anhalt,06774,DE
+Mülheim,Feldstr 56-60,Nordrhein-Westfalen,45476,DE
+München,Schleißheimer Str 460,Bayern,80935,DE
+München,Schleißheimer Str 209,Bayern,80809,DE
+München,Riesenfeldstr 86,Bayern,80809,DE
+München,Wilhelm-Diess-Weg 2,Bayern,81927,DE
+München,Rosental 10,Bayern,80331,DE
+München,Korbinianstr 1,Bayern,80807,DE
+München,Albert-Roßhaupter-Str 104,Bayern,81369,DE
+München,Jean-Paul-Richter-Str 1-3,Bayern,81369,DE
+München,Am Harras 10,Bayern,81373,DE
+München,Wendl-Dietrich-Str 11,Bayern,80634,DE
+München,Blutenburgstr 87-89,Bayern,80634,DE
+München,Herzogstr 67,Bayern,80803,DE
+München,Viktoriastr 25,Bayern,80803,DE
+München,Giesinger Bahnhofstr 5,Bayern,81539,DE
+München,Schlierseestr 19,Bayern,81541,DE
+München,Tegernseer Landstr 256,Bayern,81549,DE
+München,Zielstattstr 10,Bayern,81379,DE
+München,Fürstenrieder Str 149,Bayern,80686,DE
+München,Erzgießereistr 32-36,Bayern,80335,DE
+München,Bayerstr 3,Bayern,80335,DE
+München,Hermann-Lingg-Str 6,Bayern,80336,DE
+München,Ridlerstr 35A,Bayern,80339,DE
+München,Grillparzerstr 37,Bayern,81675,DE
+München,Lina-Hähnle-Str 1,Bayern,80997,DE
+München,Hansastr 73,Bayern,81373,DE
+Münsingen,Marktplatz 8,Baden-Württemberg,72525,DE
+Münster,Clemens-August-Platz 6,Nordrhein-Westfalen,48167,DE
+Münster,Rincklakeweg 11,Nordrhein-Westfalen,48153,DE
+Münster,Langemarckstr 10,Nordrhein-Westfalen,48147,DE
+Münster,Hammer Str 106,Nordrhein-Westfalen,48153,DE
+Münster,Dieckmannstr 4,Nordrhein-Westfalen,48161,DE
+Münster,Marktallee 9,Nordrhein-Westfalen,48165,DE
+Münster,Am Roggenkamp 180,Nordrhein-Westfalen,48165,DE
+Münster,Pantaleon Platz 24,Nordrhein-Westfalen,48161,DE
+Münster,Nevinghoff 12-16,Nordrhein-Westfalen,48147,DE
+Münstermaifeld,Bahnhofstr 34,Rheinland-Pfalz,56294,DE
+Mutterstadt,Oggersheimer Str 2,Rheinland-Pfalz,67112,DE
+Nachrodt-Wiblingwerde,Hagener Str 77,Nordrhein-Westfalen,58769,DE
+Nagold,Turmstr 30,Baden-Württemberg,72202,DE
+Naila,Hauptstr 6,Bayern,95119,DE
+Nastätten,Industriestr 2,Rheinland-Pfalz,56355,DE
+Naumburg,Unterestr 33,Hessen,34311,DE
+Naumburg,Kösener Str 36-40,Sachsen-Anhalt,06618,DE
+Neckarbischofsheim,Obere Mühlbachgasse 29,Baden-Württemberg,74924,DE
+Neckarsulm,Rathausstr 3,Baden-Württemberg,74172,DE
+Neckartenzlingen,Planstr 8,Baden-Württemberg,72654,DE
+Neresheim,Heidenheimer Str 27,Baden-Württemberg,73450,DE
+Nesse-Apfelstädt,Strasse Des Friedens 22A,Thüringen,99192,DE
+Netphen,Neumarkt 13,Nordrhein-Westfalen,57250,DE
+Netphen,Feldwasserstr 33,Nordrhein-Westfalen,57250,DE
+Nettetal,Josefstr 16,Nordrhein-Westfalen,41334,DE
+Nettetal,Schaager Str 50,Nordrhein-Westfalen,41334,DE
+Nettetal,Synagogenstr 2,Nordrhein-Westfalen,41334,DE
+Neu-Anspach,Taunusstr 7,Hessen,61267,DE
+Neu-Anspach,Hans-Böckler-Str 9,Hessen,61267,DE
+Neubeuern,Marktplatz 30,Bayern,83115,DE
+Neubrandenburg,Burgholzstr 45,Mecklenburg-Vorpommern,17034,DE
+Neubrandenburg,Platanenstr 14,Mecklenburg-Vorpommern,17033,DE
+Neubrandenburg,Ziolkowskistr 2,Mecklenburg-Vorpommern,17036,DE
+Neubrandenburg,Edgar-Andre-Str 1,Mecklenburg-Vorpommern,17033,DE
+Neubrandenburg,Ludwig-Van-Beethoven-Ring 6,Mecklenburg-Vorpommern,17033,DE
+Neuburg,Rosenstr C 106,Bayern,86633,DE
+Neuburg,Danziger Str 21,Bayern,86633,DE
+Neuburg,Längenmühlweg 28,Bayern,86633,DE
+Neuenhaus,Hauptstr 52,Niedersachsen,49828,DE
+Neuenhaus,Dr.-Picardt-Str 2,Niedersachsen,49828,DE
+Neufahrn,Christl-Kranz-Str 4,Bayern,85375,DE
+Neufahrn,Marktplatz 9C-9D,Bayern,85375,DE
+Neufahrn,Hauptstr 39,Bayern,84088,DE
+Neuhaus,Oberer Markt 1,Bayern,91284,DE
+Neuhaus-Schierschnitz,Hofwiese 6,Thüringen,96524,DE
+Neuhofen,Ludwigshafener Str 101,Rheinland-Pfalz,67141,DE
+Neukalen,Am Markt 22,Mecklenburg-Vorpommern,17154,DE
+Neukieritzsch,Bahnhofstr 7,Sachsen,04575,DE
+Neukieritzsch,Viktoriastr 28-30,Sachsen,04575,DE
+Neukirch,Dresdner Str 15,Sachsen,01904,DE
+Neukirchen,Hauptstr 1,Sachsen,09221,DE
+Neukirchen,Pleissen Anger 9,Sachsen,08459,DE
+Neukirchen-Vluyn,Bruchstr 5,Nordrhein-Westfalen,47506,DE
+Neukirchen-Vluyn,Niederrheinallee 324,Nordrhein-Westfalen,47506,DE
+Neulußheim,Waghäuseler Str 14,Baden-Württemberg,68809,DE
+Neumarkt,Unterer Markt 1,Bayern,92318,DE
+Neuötting,Ludwigstr 73-75,Bayern,84524,DE
+Neuruppin,Bütower Weg 1,Brandenburg,16816,DE
+Neuschönau,Kaiserstr 20,Bayern,94556,DE
+Neuss,Further Str 105,Nordrhein-Westfalen,41462,DE
+Neuss,Trockenpützstr 1,Nordrhein-Westfalen,41472,DE
+Neuss,Krefelder Str 49,Nordrhein-Westfalen,41460,DE
+Neuss,Lessingplatz 7,Nordrhein-Westfalen,41469,DE
+Neuss,Bergheimer Str 481,Nordrhein-Westfalen,41466,DE
+Neuss,Neusser Weyhe 76,Nordrhein-Westfalen,41462,DE
+Neustadt,Donaustr 6,Bayern,93333,DE
+Neustadt,Am Vogelsang,Brandenburg,16845,DE
+Neustadt,Köritzer Str 12,Brandenburg,16845,DE
+Neustadt,Innere Flosser Str 25,Bayern,92660,DE
+Neustadt,Robert-Stolz-Str 33,Rheinland-Pfalz,67433,DE
+Neustadt,Marktplatz 2,Bayern,96465,DE
+Neustadt,Ostlandstr 2,Bayern,96465,DE
+Neustrelitz,Pablo-Neruda-Ring,Mecklenburg-Vorpommern,17235,DE
+Neu-Ulm,Leibnizstr 14,Bayern,89231,DE
+Neuwied,Wiedbachstr 65,Rheinland-Pfalz,56567,DE
+Nidda,Schillerstr 17,Hessen,63667,DE
+Nidderau,Am Steinweg 14-16,Hessen,61130,DE
+Nideggen,Zülpicher Str 16-18,Nordrhein-Westfalen,52385,DE
+Nideggen,Kommerscheidter Str 4,Nordrhein-Westfalen,52385,DE
+Niebüll,Zum Stellwerk 4,Schleswig-Holstein,25899,DE
+Niederdorfelden,Berliner Str 2,Hessen,61138,DE
+Niederfrohna,Limbacher Str 81 B,Sachsen,09243,DE
+Niederkassel,Ludwigsplatz 3-4,Nordrhein-Westfalen,53859,DE
+Niederkirchen,Talstr 33,Rheinland-Pfalz,67700,DE
+Niederkrüchten,Mittelstr 82,Nordrhein-Westfalen,41372,DE
+Niederkrüchten,Adam-Houx-Str 18,Nordrhein-Westfalen,41372,DE
+Niedernhausen,Lenzhahner Weg 2,Hessen,65527,DE
+Niedernwöhren,Horsthöfe 9,Niedersachsen,31712,DE
+Niederorschel,Bruch 9,Thüringen,37355,DE
+Niederstetten,Lange Gasse 17,Baden-Württemberg,97996,DE
+Niederstotzingen,Kleine Gasse 39,Baden-Württemberg,89168,DE
+Niederwiesa,Dresdnerstr 26,Sachsen,09577,DE
+Nienburg,Ernst-Thälmann-Allee 1,Sachsen-Anhalt,06429,DE
+Nienburg,Georgstr 19,Niedersachsen,31582,DE
+Niesky,Bautzener Str 1-3,Sachsen,02906,DE
+Niesky,Am Bahnhof 8,Sachsen,02906,DE
+Niestetal,Wolfsangerstr 1,Hessen,34266,DE
+Nittenau,Hauptstr 26,Bayern,93149,DE
+Nordenham,Lange Str 103,Niedersachsen,26954,DE
+Norderstedt,Ulzburgerstr 398,Schleswig-Holstein,22844,DE
+Nordheim,Hauptstr 97,Baden-Württemberg,74226,DE
+Nordhorn,Bentheimer Str 5-7,Niedersachsen,48529,DE
+Nördlingen,Hallgasse 15,Bayern,86720,DE
+Nordwalde,Felix-Fraling-Str 12,Nordrhein-Westfalen,48356,DE
+Northeim,Breite Str 55,Niedersachsen,37154,DE
+Nortorf,Grosse Mühlenstr 3,Schleswig-Holstein,24589,DE
+Nottuln,Bahnhofstr 11,Nordrhein-Westfalen,48301,DE
+Nümbrecht,Otto-Kaufmann-Str 13,Nordrhein-Westfalen,51588,DE
+Nürnberg,Freystädter Str 137,Bayern,90475,DE
+Nürnberg,Allersberger Str 45,Bayern,90461,DE
+Nürnberg,Radmeisterstr 2-4,Bayern,90455,DE
+Nürnberg,Moritzbergstr 42,Bayern,90482,DE
+Nürnberg,Brettergartenstr 95,Bayern,90427,DE
+Nürnberg,Schweinauer Hauptstr 99-100,Bayern,90441,DE
+Nürnberg,Rothenburgerstr 253,Bayern,90439,DE
+Nürnberg,Tafelfeldstr 28,Bayern,90443,DE
+Nürtingen,Kirchstr 33,Baden-Württemberg,72622,DE
+Nürtingen,Kirchstr 61,Baden-Württemberg,72622,DE
+Nürtingen,Kirchheimer Str 1,Baden-Württemberg,72622,DE
+Nürtingen,Nürtinger Str 14,Baden-Württemberg,72622,DE
+Oberasbach,Am Rathaus 8,Bayern,90522,DE
+Oberderdingen,Schillerstr 76,Baden-Württemberg,75038,DE
+Oberharz,Sandbrink 1,Sachsen-Anhalt,38877,DE
+Oberhausen,Friesenstr 91,Nordrhein-Westfalen,46149,DE
+Oberhausen,Teutoburger Str 226,Nordrhein-Westfalen,46119,DE
+Oberhausen,Marktplatz 6,Nordrhein-Westfalen,46117,DE
+Oberhausen,Gildenstr 2,Nordrhein-Westfalen,46117,DE
+Oberhof,Gräfenrodaer Str 2,Thüringen,98559,DE
+Oberhonnefeld-Gierend,Westerwaldstr 23,Rheinland-Pfalz,56587,DE
+Oberkotzau,Hofer Str 40,Bayern,95145,DE
+Oberlungwitz,Hofer Str 211,Sachsen,09353,DE
+Oberndorf,Sulzbachstr 36,Baden-Württemberg,78727,DE
+Obernzell,Marktplatz 34,Bayern,94130,DE
+Oberstaufen,Schloßstr 2,Bayern,87534,DE
+Oberthulba,Hammelburgerstr 3,Bayern,97723,DE
+Obertshausen,Königsberger Str 2,Hessen,63179,DE
+Obertshausen,Schubertstr 10,Hessen,63179,DE
+Oberursel,Holzweg 15,Hessen,61440,DE
+Oberwolfach,Wolftalstr 24,Baden-Württemberg,77709,DE
+Oderwitz,Hauptstr 25,Sachsen,02791,DE
+Oelixdorf,Chaussee 1,Schleswig-Holstein,25524,DE
+Oelsnitz,Willy-Brandt-Ring 2,Sachsen,08606,DE
+Oer-Erkenschwick,Stimbergstr 84,Nordrhein-Westfalen,45739,DE
+Oerlinghausen,Albrecht-Obert-Platz 4,Nordrhein-Westfalen,33813,DE
+Offenbach,Ludwigstr 108,Hessen,63067,DE
+Offenbach,Hugo-Wolf-Str 6,Hessen,63069,DE
+Offingen,Marktstr 16,Bayern,89362,DE
+Oldenburg,Donnerschweer Str 171,Niedersachsen,26123,DE
+Oldenburg,Hauptstr 60,Niedersachsen,26122,DE
+Oldenburg,Edewechter Landstr 42,Niedersachsen,26131,DE
+Oldenburg,Bümmersteder Tredde 111,Niedersachsen,26133,DE
+Oldenburg,Bremerstr 43-45,Niedersachsen,26135,DE
+Oldenburg,Stedinger Str 85,Niedersachsen,26135,DE
+Olsberg,Kolpingstr 4,Nordrhein-Westfalen,59939,DE
+Oppenau,Hauptstr 40,Baden-Württemberg,77728,DE
+Oranienburg,Bernauer Str 18,Brandenburg,16515,DE
+Ortenberg,Karl-Hofmann-Str 3,Hessen,63683,DE
+Osnabrück,Natruper Str 116,Niedersachsen,49090,DE
+Osnabrück,Hasestr 29-30,Niedersachsen,49074,DE
+Osnabrück,Lerchenstr 2,Niedersachsen,49088,DE
+Osnabrück,Sutthauser Str 76,Niedersachsen,49080,DE
+Osternienburg,Ernst-Thälmann-Str 37,Sachsen-Anhalt,06386,DE
+Osterode,Herzberger Str 59,Niedersachsen,37520,DE
+Ostrhauderfehn,Hauptstr 165,Niedersachsen,26842,DE
+Östringen,Eppinger Str 42,Baden-Württemberg,76684,DE
+Ostritz,An Den Schrebergärten 2,Sachsen,02899,DE
+Ötigheim,Rosenstr 13,Baden-Württemberg,76470,DE
+Ötisheim,Maulbronner Str 45,Baden-Württemberg,75443,DE
+Otterndorf,Marktstr 1,Niedersachsen,21762,DE
+Ottobrunn,Karl-Stieler-Str 2-4,Bayern,85521,DE
+Ottweiler,Wilhelm-Heinrich-Str 9,Saarland,66564,DE
+Otzberg,Bismarckstr 23,Hessen,64853,DE
+Owen,Bahnhofstr 16,Baden-Württemberg,73277,DE
+Oyten,Sonnenblumenweg 10,Niedersachsen,28876,DE
+Oyten,Bergstr 58,Niedersachsen,28876,DE
+Paderborn,Im Lichtenfelde 4,Nordrhein-Westfalen,33100,DE
+Paderborn,Riemkestr 17,Nordrhein-Westfalen,33102,DE
+Paderborn,Am Krebsbach 1,Nordrhein-Westfalen,33104,DE
+Panketal,Alt Zepernick 3,Brandenburg,16341,DE
+Panketal,Bucher Str 65,Brandenburg,16341,DE
+Papenburg,Moorstr 20-22,Niedersachsen,26871,DE
+Pappenheim,Beck-Str 3,Bayern,91788,DE
+Parchim,Neuhofer Weiche 1,Mecklenburg-Vorpommern,19370,DE
+Pausa,Untere Kirchstr 3,Sachsen,07952,DE
+Pegnitz,Hauptstr 26,Bayern,91257,DE
+Peine,Kirchvordener Str 42,Niedersachsen,31228,DE
+Penzberg,Karlstr 23,Bayern,82377,DE
+Perleberg,Bäckerstr 42,Brandenburg,19348,DE
+Perlesreut,Marktplatz 9,Bayern,94157,DE
+Petershagen,Hauptstr 10,Nordrhein-Westfalen,32469,DE
+Petershagen,Lavelsloher Str 5,Nordrhein-Westfalen,32469,DE
+Pfaffenhausen,Kirchplatz 1,Bayern,87772,DE
+Pfaffenhofen,Niederscheyerer Str 98,Bayern,85276,DE
+Pfalzgrafenweiler,Kirchstr 15,Baden-Württemberg,72285,DE
+Pfarrkirchen,Passauer Str 107,Bayern,84347,DE
+Pfedelbach,Jahnstr 3A,Baden-Württemberg,74629,DE
+Pfinztal,Karlsruher Str 69,Baden-Württemberg,76327,DE
+Pforzheim,Westliche Karl-Friedrich-Str 2,Baden-Württemberg,75175,DE
+Pfullendorf,Hauptstr 40,Baden-Württemberg,88630,DE
+Pfullingen,Zeppelinstr 5,Baden-Württemberg,72793,DE
+Pfungstadt,Freiligrathstr 20,Hessen,64319,DE
+Philippsthal,Rathausstr 2 A,Hessen,36269,DE
+Pirmasens,Hauptstr 71,Rheinland-Pfalz,66953,DE
+Pirna,Am Markt 14,Sachsen,01796,DE
+Pirna,Gartenstr 37,Sachsen,01796,DE
+Pirna,Rottwerndorfer Str 43,Sachsen,01796,DE
+Pirna,Schillerstr 8,Sachsen,01796,DE
+Planegg,Münchener Str 17,Bayern,82152,DE
+Plankstadt,Schwetzinger Str 6,Baden-Württemberg,68723,DE
+Plaue,In Der Aue 8,Thüringen,99338,DE
+Plauen,Bahnhofstr 38,Sachsen,08523,DE
+Plauen,Pestalozzistr 70,Sachsen,08523,DE
+Plech,Gewerbepark Schönthal 14,Bayern,91287,DE
+Plön,Schillener Str 2-8,Schleswig-Holstein,24306,DE
+Pockau,Freiberger Str 13B,Sachsen,09509,DE
+Poppenhausen,Burgstr 5,Hessen,36163,DE
+Porta,Stephanstr 7,Nordrhein-Westfalen,32457,DE
+Porta,Vlothoer Str 112,Nordrhein-Westfalen,32457,DE
+Pößneck,Lohstr 2,Thüringen,07381,DE
+Postbauer-Heng,Centrum 12,Bayern,92353,DE
+Potsdam,Stephensonstr 10,Brandenburg,14482,DE
+Potsdam,Zeppelinstr 47 A,Brandenburg,14471,DE
+Potsdam,Dorfstr 15,Brandenburg,14476,DE
+Premnitz,Gerhart-Hauptmann-Str 14,Brandenburg,14727,DE
+Prettin,Lindenstr 18,Sachsen-Anhalt,06922,DE
+Preußisch,Bremer Str 13,Nordrhein-Westfalen,32361,DE
+Prüm,Hahnplatz 8,Rheinland-Pfalz,54595,DE
+Prutting,Rosenheimerstr 10,Bayern,83134,DE
+Puchheim,Lochhauser Str 14,Bayern,82178,DE
+Pulheim,Auf Dem Driesch 13,Nordrhein-Westfalen,50259,DE
+Pulheim,Am Zehnthof 23,Nordrhein-Westfalen,50259,DE
+Pulsnitz,Bachstr 3,Sachsen,01896,DE
+Putzbrunn,Glonner Str 8,Bayern,85640,DE
+Quedlinburg,Marktstr 3,Sachsen-Anhalt,06484,DE
+Quedlinburg,Schillerstr 6,Sachsen-Anhalt,06484,DE
+Rackwitz,Hauptstr 26-28,Sachsen,04519,DE
+Radeburg,Marktstr 3,Sachsen,01471,DE
+Raguhn,Mühlstr 9,Sachsen-Anhalt,06779,DE
+Rain,Hauptstr 46,Bayern,86641,DE
+Raisdorf,Zum See 10,Schleswig-Holstein,24223,DE
+Ransbach-Baumbach,Rheinstr 54,Rheinland-Pfalz,56235,DE
+Rastede,Oldenburger Str 248,Niedersachsen,26180,DE
+Ratekau,Schwartauer Str 1 A,Schleswig-Holstein,23611,DE
+Rathenow,Kleine Milower Str 1-3,Brandenburg,14712,DE
+Ravensburg,Gartenstr 22-24,Baden-Württemberg,88212,DE
+Ravensburg,Grafengasse 133,Baden-Württemberg,88212,DE
+Ravensburg,Rümelinstr 7,Baden-Württemberg,88213,DE
+Rechberghausen,Schlossmarkt 4,Baden-Württemberg,73098,DE
+Recklinghausen,Heidestr 4,Nordrhein-Westfalen,45659,DE
+Recklinghausen,Westfalenstr 151-153,Nordrhein-Westfalen,45661,DE
+Recklinghausen,Westfalenstr 86 A,Nordrhein-Westfalen,45661,DE
+Recklinghausen,Breite Str 19,Nordrhein-Westfalen,45657,DE
+Recklinghausen,Bergknappenstr 205,Nordrhein-Westfalen,45663,DE
+Recklinghausen,Dortmunder Str 67,Nordrhein-Westfalen,45665,DE
+Recklinghausen,Bochumer Str 106,Nordrhein-Westfalen,45661,DE
+Recklinghausen,Hertener Str 14,Nordrhein-Westfalen,45657,DE
+Rees,Isselburger Str 2-4D,Nordrhein-Westfalen,46459,DE
+Regensburg,Friedrich-Viebacher-Allee 7,Bayern,93055,DE
+Rehfelde,Ernst-Thälmann-Str 13,Brandenburg,15345,DE
+Rehlingen-Siersburg,Beckinger Str 28A,Saarland,66780,DE
+Reichertshofen,Marktstr 1,Bayern,85084,DE
+Reilingen,Hauptstr 147-149,Baden-Württemberg,68799,DE
+Reit,Dorfstr 23,Bayern,83242,DE
+Reken,Poststr 4,Nordrhein-Westfalen,48734,DE
+Remagen,Marktstr 74-76,Rheinland-Pfalz,53424,DE
+Remscheid,Sedanstr 33,Nordrhein-Westfalen,42855,DE
+Renchen,Hauptstr 53,Baden-Württemberg,77871,DE
+Rendsburg,Wehraustr 17,Schleswig-Holstein,24768,DE
+Rennertshofen,Marktstr 12,Bayern,86643,DE
+Rethem,Hainholzstr 18,Niedersachsen,27336,DE
+Rhauderfehn,1. Südwieke 271,Niedersachsen,26817,DE
+Rheda-Wiedenbrück,In Der Halle 4 *,Nordrhein-Westfalen,33378,DE
+Rhede,Kirchstr 25-27,Niedersachsen,26899,DE
+Rheinberg,Gelderstr 14-16,Nordrhein-Westfalen,47495,DE
+Rheinbrohl,Hauptstr 47,Rheinland-Pfalz,56598,DE
+Rheine,Salzbergener Str 123,Nordrhein-Westfalen,48431,DE
+Rheinfelden,Adolf-Senger-Str 10,Baden-Württemberg,79618,DE
+Rheinfelden,Friedrichstr 17,Baden-Württemberg,79618,DE
+Rheinstetten,Oberfeldstr 10,Baden-Württemberg,76287,DE
+Rheinstetten,Hertzstr 2,Baden-Württemberg,76287,DE
+Rheinzabern,Feldstr 2,Rheinland-Pfalz,76764,DE
+Ribnitz-Damgarten,Stralsunder Str 13,Mecklenburg-Vorpommern,18311,DE
+Richtenberg,Feldstr 26,Mecklenburg-Vorpommern,18461,DE
+Riedstadt,Gernsheimer Str 9,Hessen,64560,DE
+Riesa,Klötzer Str 3A-B,Sachsen,01587,DE
+Rieste,Bahnhofstr 37,Niedersachsen,49597,DE
+Rietberg,Rathausstr 49,Nordrhein-Westfalen,33397,DE
+Rietberg,Lange Str 107,Nordrhein-Westfalen,33397,DE
+Rietberg,Westerwieher Str 247 A,Nordrhein-Westfalen,33397,DE
+Risum-Lindholm,Dorfstr 200,Schleswig-Holstein,25920,DE
+Rodalben,Hauptstr 129,Rheinland-Pfalz,66976,DE
+Rodalben,Zweibrücker Str 5-15 A,Rheinland-Pfalz,66976,DE
+Rodenberg,Langestr 17,Niedersachsen,31552,DE
+Roding,Chamer Str 1,Bayern,93426,DE
+Rogätz,Magdeburgerstr 1,Sachsen-Anhalt,39326,DE
+Rohrdorf,Rosenheimerstr 40-42,Bayern,83101,DE
+Römerberg,Eisenbahnstr 3,Rheinland-Pfalz,67354,DE
+Rommerskirchen,Venloer Str 4A,Nordrhein-Westfalen,41569,DE
+Rositz,Goethestr 3,Thüringen,04617,DE
+Rösrath,Bensberger Str 187,Nordrhein-Westfalen,51503,DE
+Roßbach,Müllerstr 2,Bayern,94439,DE
+Roßlau,Luchplatz 1,Sachsen-Anhalt,06862,DE
+Rostock,Parkstr 59,Mecklenburg-Vorpommern,18057,DE
+Rotenburg,Mündershäuser Str 22,Hessen,36199,DE
+Rotenburg,Am Neuen Markt 8-10,Niedersachsen,27356,DE
+Roth,Willy-Supf-Platz 2,Bayern,91154,DE
+Rottendorf,Untertorstr 2,Bayern,97228,DE
+Rudersberg,Rathausplatz 7,Baden-Württemberg,73635,DE
+Rüdersdorf,Mühlenstr 8,Brandenburg,15562,DE
+Ruderting,Passauer Str 18,Bayern,94161,DE
+Ruhla,Am Ebertsberg 1,Thüringen,99842,DE
+Ruhstorf,Hauptstr 32,Bayern,94099,DE
+Rüsselsheim,Adolf-Von-Menzel-Str 15,Hessen,65428,DE
+Rüsselsheim,Löwenplatz 1-3,Hessen,65428,DE
+Rust,Hausener Str 25,Baden-Württemberg,77977,DE
+Saalfeld,Kulmbacher Str 20,Thüringen,07318,DE
+Saarbrücken,Alleestr 32,Saarland,66126,DE
+Saarbrücken,Göbenstr 31-33,Saarland,66117,DE
+Saarbrücken,Mühlenweg 2A-2D,Saarland,66129,DE
+Saarbrücken,Saargemünder Str 167 A,Saarland,66130,DE
+Saarbrücken,Hauptstr 68,Saarland,66127,DE
+Saarbrücken,Heinrich-Köhl Str 58,Saarland,66113,DE
+Saarbrücken,Saargemünder Str 62 A,Saarland,66119,DE
+Saarbrücken,Obertorstr 4-6,Saarland,66111,DE
+Saarburg,Am Fruchtmarkt 3,Rheinland-Pfalz,54439,DE
+Saarlouis,Schulstr 15,Saarland,66740,DE
+Saerbeck,Marktstr 2,Nordrhein-Westfalen,48369,DE
+Sagard,August-Bebel-Str 14,Mecklenburg-Vorpommern,18551,DE
+Salmtal,Neuer Bahnhof 3,Rheinland-Pfalz,54528,DE
+Salzgitter,Gesemannstr 17,Niedersachsen,38226,DE
+Salzgitter,Goslarsche Str 48,Niedersachsen,38259,DE
+Salzhausen,Schmiedestr 1,Niedersachsen,21376,DE
+Salzkotten,Bahnhofstr 1,Nordrhein-Westfalen,33154,DE
+Sande,Am Markt 6-8,Niedersachsen,26452,DE
+Sande,Hauptstr 43-45 *,Niedersachsen,26452,DE
+Sandersdorf,Poststr 2 E,Sachsen-Anhalt,06792,DE
+Sankt Andreasberg,Dr-Willi-Bergmann-Str 19,Niedersachsen,37444,DE
+Sankt Augustin, Pleistalstr 225,Nordrhein-Westfalen,53757,DE
+Sankt Augustin,Vilicher Str 1,Nordrhein-Westfalen,53757,DE
+Sankt Ingbert,Obere Kaiserstr 170,Saarland,66386,DE
+Sankt Märgen,Wagensteigstr 11,Baden-Württemberg,79274,DE
+Sankt Michaelisdonn,Johannssenstr 11,Schleswig-Holstein,25693,DE
+Sassenberg,Vinnenbergerstr 5,Nordrhein-Westfalen,48336,DE
+Sassenburg,Zum Holzplatz 2,Niedersachsen,38524,DE
+Sassnitz,Hauptstr 57,Mecklenburg-Vorpommern,18546,DE
+Sauerlach,Münchener Str 6,Bayern,82054,DE
+Schafflund,Hauptstr 66,Schleswig-Holstein,24980,DE
+Schauenburg,Bahnhofstr 2,Hessen,34270,DE
+Scheden,Gewerbegebiet B3 Haus Nr.2,Niedersachsen,37127,DE
+Scheidegg,Alte Salzstr 11,Bayern,88175,DE
+Scheuring,Hauptstr 38,Bayern,86937,DE
+Schieder-Schwalenberg,Pyrmonter Str 9,Nordrhein-Westfalen,32816,DE
+Schiffweiler,Hauptstr 14,Saarland,66578,DE
+Schiffweiler,Hauptstr 177,Saarland,66578,DE
+Schiltach,Schramberger Str 1,Baden-Württemberg,77761,DE
+Schlangenbad,Wambacher Str 22,Hessen,65388,DE
+Schleusingen,Jägerhausstr 7,Thüringen,98553,DE
+Schliersee,Karl-Haider-Str 1-2,Bayern,83727,DE
+Schlitz,Günthergasse 29-31,Hessen,36110,DE
+Schloß,Kaunitzer Str 1-3,Nordrhein-Westfalen,33758,DE
+Schlüchtern,Obertorstr 40-42,Hessen,36381,DE
+Schmalkalden,Allendestr 13,Thüringen,98574,DE
+Schmallenberg,Lenninghof 1,Nordrhein-Westfalen,57392,DE
+Schmallenberg,Oststr 9,Nordrhein-Westfalen,57392,DE
+Schmitten,Brunhildestr 40,Hessen,61389,DE
+Schönberg,Knüll 13,Schleswig-Holstein,24217,DE
+Schönebeck,Friedrichstr 54-60,Sachsen-Anhalt,39218,DE
+Schöneck,Hauptstr 95,Sachsen,08261,DE
+Schönecken,Teichstr 4,Rheinland-Pfalz,54614,DE
+Schönewalde,Markt 2,Brandenburg,04916,DE
+Schongau,Marienplatz 11,Bayern,86956,DE
+Schönhausen,Am Bismarckpark 2,Sachsen-Anhalt,39524,DE
+Schönkirchen,Am Kirchplatz 4,Schleswig-Holstein,24232,DE
+Schonungen,Ludwig-Grobe-Str 6,Bayern,97453,DE
+Schopp,Hauptstr 14,Rheinland-Pfalz,67707,DE
+Schöppenstedt,Stobenstr 7,Niedersachsen,38170,DE
+Schramberg,Hauptstr 39,Baden-Württemberg,78713,DE
+Schwaan,Doberaner Str 29,Mecklenburg-Vorpommern,18258,DE
+Schwabhausen,Augsburger Str 6,Bayern,85247,DE
+Schwäbisch Gmünd,Einhornstr 19,Baden-Württemberg,73529,DE
+Schwaig,Diepersdorfer Str 10,Bayern,90571,DE
+Schwaig,Norisstr 10,Bayern,90571,DE
+Schwaigern,Marktstr 12,Baden-Württemberg,74193,DE
+Schwalbach,Marktplatz 15,Hessen,65824,DE
+Schwallungen,Hilderser Str 2,Thüringen,98590,DE
+Schwalmtal,Hauptstr 38,Nordrhein-Westfalen,41366,DE
+Schwarmstedt,Hauptstr 4,Niedersachsen,29690,DE
+Schwarzach,Martinstr 2,Bayern,94374,DE
+Schwarzenbach,Nailaer Str 7,Bayern,95131,DE
+Schwarzenbach,Holzgartenstr 2,Bayern,95126,DE
+Schwarzenbach,Kirchenlamitzer Str 17,Bayern,95126,DE
+Schwarzenberg,Bahnhofstr 8,Sachsen,08340,DE
+Schwarzenfeld,Amberger Str 50,Bayern,92521,DE
+Schweinfurt,Wolfsgasse 23,Bayern,97421,DE
+Schweinfurt,Markt 31,Bayern,97421,DE
+Schweinfurt,Konrad-Adenauer-Str 30,Bayern,97422,DE
+Schwelm,Friedrich-Ebert-Str 42,Nordrhein-Westfalen,58332,DE
+Schwelm,Neumarkt 20,Nordrhein-Westfalen,58332,DE
+Schwendi,Hauptstr 25,Baden-Württemberg,88477,DE
+Schwerin,Doktor-Külz-Str 17,Mecklenburg-Vorpommern,19053,DE
+Schwerin,Am Grünen Tal 37,Mecklenburg-Vorpommern,19063,DE
+Schwerin,Amtstr 6,Mecklenburg-Vorpommern,19055,DE
+Schwerin,Am Margaretenhof 28,Mecklenburg-Vorpommern,19057,DE
+Schwieberdingen,Hintere Gasse 2,Baden-Württemberg,71701,DE
+Sebnitz,Lange Str 7-9,Sachsen,01855,DE
+Sebnitz,Schandauer Str 86,Sachsen,01855,DE
+Seebach,Hauptstr 28,Thüringen,99846,DE
+Seeon-Seebruck,Ludwig-Thoma-Str 13,Bayern,83358,DE
+Seesen,Bismarckstr 20,Niedersachsen,38723,DE
+Seevetal,Fleestedter Ring 5,Niedersachsen,21217,DE
+Seevetal,An Den Höfen 18,Niedersachsen,21217,DE
+Seifhennersdorf,Rumburger Str 21,Sachsen,02782,DE
+Selbitz,Marktplatz 4,Bayern,95152,DE
+Selsingen,Hauptstr 21,Niedersachsen,27446,DE
+Selters,Bahnhofstr 1-3,Rheinland-Pfalz,56242,DE
+Senden,Dorfstr 11,Nordrhein-Westfalen,48308,DE
+Sendenhorst,Sendenhorster Str 24,Nordrhein-Westfalen,48324,DE
+Sibbesse,Hauptstr 8A,Niedersachsen,31079,DE
+Siegen,Rathausstr 24,Nordrhein-Westfalen,57078,DE
+Siegen,Hauptstr 52,Nordrhein-Westfalen,57074,DE
+Sigmaringen,Schwabstr 29,Baden-Württemberg,72488,DE
+Simbach,Marktplatz 43,Bayern,94436,DE
+Sinntal,Bahnhofstr 2,Hessen,36391,DE
+Sittensen,Bahnhofstr 12,Niedersachsen,27419,DE
+Sögel,Mühlenstr 3-5,Niedersachsen,49751,DE
+Söhlde,Hauptstr 44,Niedersachsen,31185,DE
+Solingen,Breidbacher Tor 9,Nordrhein-Westfalen,42651,DE
+Solingen,Düsseldorfer Str 40,Nordrhein-Westfalen,42697,DE
+Solingen,Friedrich-Ebert-Str 104,Nordrhein-Westfalen,42719,DE
+Sollstedt,Halle-Kasseler Str 64,Thüringen,99759,DE
+Solms,Braunfelser Str 19,Hessen,35606,DE
+Sonneberg,Ernst-Moritz-Arndt-Str 48,Thüringen,96515,DE
+Sonneberg,Friedrich-Ludwig-Jahn-Str 27,Thüringen,96515,DE
+Sonnefeld,Frohnlacher Str 5,Bayern,96242,DE
+Sonnewalde,Markt 12,Brandenburg,03249,DE
+Sontheim,Hauptstr 35,Baden-Württemberg,89567,DE
+Sörup,Bahnhofstr 16,Schleswig-Holstein,24966,DE
+Speichersdorf,Weidener Str 29,Bayern,95469,DE
+Spelle,Ringstr 2,Niedersachsen,48480,DE
+Spenge,Lönsweg 40-42,Nordrhein-Westfalen,32139,DE
+Speyer,Kurt-Schumacher-Str 7,Rheinland-Pfalz,67346,DE
+Speyer,Windthorststr 11,Rheinland-Pfalz,67346,DE
+Speyer,Wormser Str 53,Rheinland-Pfalz,67346,DE
+Spreenhagen,Hauptstr 82 A,Brandenburg,15528,DE
+Spremberg,Kochsdorfer Weg 9,Brandenburg,03130,DE
+Stadtallendorf,Im Tal 3A,Hessen,35260,DE
+Stadtkyll,Hauptstr 19-21,Rheinland-Pfalz,54589,DE
+Stadtprozelten,Hauptstr 58,Bayern,97909,DE
+Starzach,Stumpacher Weg 2,Baden-Württemberg,72181,DE
+Staßfurt,An Der Salzrinne 2,Sachsen-Anhalt,39418,DE
+Staßfurt,Förderstedter Str 32,Sachsen-Anhalt,39418,DE
+Staßfurt,Kottenstr 5,Sachsen-Anhalt,39418,DE
+Staßfurt,Straße Der Solidarität 2,Sachsen-Anhalt,39418,DE
+Staufen,Zum Maidlebach 1-3,Baden-Württemberg,79219,DE
+Stegaurach,Alte Bundesstr 7,Bayern,96135,DE
+Steinach,Karl-Friedrich-Weigelt-Str 4,Thüringen,96523,DE
+Steinau,Leipziger Str 85,Hessen,36396,DE
+Steinfeld,Große Str 29,Niedersachsen,49439,DE
+Steingaden,Welfenstr 9,Bayern,86989,DE
+Steinhagen,Bahnhofstr 21 A,Nordrhein-Westfalen,33803,DE
+Steinheim,Wöbbelerstr 31,Nordrhein-Westfalen,32839,DE
+Steinheim,Hauptstr 18,Baden-Württemberg,89555,DE
+Steißlingen,Singenerstr 35,Baden-Württemberg,78256,DE
+Stendal,Dr.-Kurt-Schumacher-Str 1-5,Sachsen-Anhalt,39576,DE
+Stockach,Hauptstr 12-14,Baden-Württemberg,78333,DE
+Stolberg,Salmstr 23 A,Nordrhein-Westfalen,52222,DE
+Stolberg,Sebastianusstr/Goethestr,Nordrhein-Westfalen,52222,DE
+Stolberg,Schevenhütter Str 34,Nordrhein-Westfalen,52224,DE
+Stolberg,Dechant-Brock-Str 11,Nordrhein-Westfalen,52224,DE
+Stolberg,Werkstr 6,Nordrhein-Westfalen,52224,DE
+Stollberg,Chemnitzer Str 27,Sachsen,09366,DE
+Straelen,Niederdorfer Str 12-14,Nordrhein-Westfalen,47638,DE
+Straußfurt,Strasse Des Friedens 1,Thüringen,99634,DE
+Stromberg,Gerbereistr 2,Rheinland-Pfalz,55442,DE
+Stuhr,Syker Str 5,Niedersachsen,28816,DE
+Stutensee,Rathausstr 6,Baden-Württemberg,76297,DE
+Stuttgart,Marktstr 48,Baden-Württemberg,70372,DE
+Stuttgart,Nürnberger Str 1,Baden-Württemberg,70374,DE
+Stuttgart,Schmidener Str 123,Baden-Württemberg,70374,DE
+Stuttgart,Birkheckenstr 1,Baden-Württemberg,70599,DE
+Stuttgart,Epplestr 22,Baden-Württemberg,70597,DE
+Stuttgart,Osterbronnstr 72,Baden-Württemberg,70565,DE
+Stuttgart,Grazer Str 27-29,Baden-Württemberg,70469,DE
+Stuttgart,Adalbert-Stifter-Str 102,Baden-Württemberg,70437,DE
+Stuttgart,Bildäckerstr 15-17,Baden-Württemberg,70619,DE
+Stuttgart,Hirschstr 14,Baden-Württemberg,70173,DE
+Stuttgart,Breitscheidstr 8-12(Bosch-Area,Baden-Württemberg,70174,DE
+Stuttgart,Marienstr 3 B,Baden-Württemberg,70178,DE
+Stuttgart,Heusteigstr 28,Baden-Württemberg,70180,DE
+Stuttgart,Urbanstr 74,Baden-Württemberg,70182,DE
+Stuttgart,Widmaierstr 110,Baden-Württemberg,70567,DE
+Stuttgart,Hechtstr 29C,Baden-Württemberg,70378,DE
+Stuttgart,Nagoldstr 53-55,Baden-Württemberg,70376,DE
+Stuttgart,Wagenburgstr 125,Baden-Württemberg,70186,DE
+Stuttgart,Ostendstr 70,Baden-Württemberg,70188,DE
+Stuttgart,Hackstr 37,Baden-Württemberg,70190,DE
+Stuttgart,Filderhauptstr 30,Baden-Württemberg,70599,DE
+Stuttgart,Rohrackerstr 231,Baden-Württemberg,70329,DE
+Stuttgart,Freihofstr 28 A,Baden-Württemberg,70439,DE
+Stuttgart,Tübinger Str 27,Baden-Württemberg,70178,DE
+Stuttgart,Liststr 41,Baden-Württemberg,70180,DE
+Stuttgart,Biklenstr 7,Baden-Württemberg,70327,DE
+Stuttgart,Katzenbachstr 80,Baden-Württemberg,70563,DE
+Stuttgart,Ulmer Str 297,Baden-Württemberg,70327,DE
+Stuttgart,Schloßstr 100,Baden-Württemberg,70176,DE
+Stuttgart,Unterländer Str 4,Baden-Württemberg,70435,DE
+Südbrookmerland,Marktstr 3,Niedersachsen,26624,DE
+Südbrookmerland,Westvictorburer Str 14,Niedersachsen,26624,DE
+Süderbrarup,Grosse Str 25,Schleswig-Holstein,24392,DE
+Suhl,Rennsteigstr 15,Thüringen,98528,DE
+Sulzbach,Sulzbachtalstr 77,Saarland,66280,DE
+Sulzbach,Hauptstr 5,Hessen,65843,DE
+Sülzetal,Breite Str 23,Sachsen-Anhalt,39171,DE
+Sülzetal,Robert-Koch-Str 30,Sachsen-Anhalt,39171,DE
+Sundern,Hachener Str 56,Nordrhein-Westfalen,59846,DE
+Tacherting,Wayonerstr 2,Bayern,83342,DE
+Talheim,Rathausplatz 18,Baden-Württemberg,74388,DE
+Tambach-Dietharz,Bahnhofstr 11-13,Thüringen,99897,DE
+Tamm,Heilbronner Str 66/1,Baden-Württemberg,71732,DE
+Tangerhütte,Neustädter Ring 78,Sachsen-Anhalt,39517,DE
+Tangermünde,Lange Str 47,Sachsen-Anhalt,39590,DE
+Tangermünde,Kirschallee 11,Sachsen-Anhalt,39590,DE
+Tanna,Markt 8-9,Thüringen,07922,DE
+Tecklenburg,Moorstr 2,Nordrhein-Westfalen,49545,DE
+Tegernsee,Hauptstr 22,Bayern,83684,DE
+Teichwolframsdorf,Am Steinberg 17 A,Thüringen,07989,DE
+Tellingstedt,Hauptstr 5 C,Schleswig-Holstein,25782,DE
+Teltow,Lieselotte-Hermann-Str 3,Brandenburg,14513,DE
+Templin,Straße Des Friedens 19,Brandenburg,17268,DE
+Tengen,Marktstr 17,Baden-Württemberg,78250,DE
+Tespe,Lüneburgerstr 78,Niedersachsen,21395,DE
+Tessin,Alter Markt 2-3,Mecklenburg-Vorpommern,18195,DE
+Teterow,Malchiner Str 7,Mecklenburg-Vorpommern,17166,DE
+Tettau,Hauptstr 6,Bayern,96355,DE
+Teuchern,Oberstr 6,Sachsen-Anhalt,06682,DE
+Teuschnitz,Reichenbacherstr 2,Bayern,96358,DE
+Thaleischweiler-Fröschen,Bahnhofstr 52,Rheinland-Pfalz,66987,DE
+Thannhausen,Christoph-Von-Schmid-Str 2,Bayern,86470,DE
+Thannhausen,Bürgermeister-Raab-Str 18A,Bayern,86470,DE
+Tholey,Theltalstr 1B,Saarland,66636,DE
+Titisee-Neustadt,Hauptstr 1,Baden-Württemberg,79822,DE
+Töging,Wolfgang-Leeb-Str 16,Bayern,84513,DE
+Tönisvorst,Kuhstr 3-7,Nordrhein-Westfalen,47918,DE
+Tonna,Erfurter Str 2,Thüringen,99958,DE
+Torgau,Bäckerstr 17-19,Sachsen,04860,DE
+Tostedt,Bahnhofstr 24,Niedersachsen,21255,DE
+Traben-Trarbach,Poststr 1,Rheinland-Pfalz,56841,DE
+Trappenkamp,Am Markt 28,Schleswig-Holstein,24610,DE
+Tribsees,Karl-Marx-Str 34,Mecklenburg-Vorpommern,18465,DE
+Trier,Fleischstr 34-36,Rheinland-Pfalz,54290,DE
+Trier,Paulinstr 78,Rheinland-Pfalz,54292,DE
+Trossingen,Rudolf-Maschke-Platz 4,Baden-Württemberg,78647,DE
+Tussenhausen,Türkheimer Str 6,Bayern,86874,DE
+Twist,Auf Dem Bült 1,Niedersachsen,49767,DE
+Ubstadt-Weiher,Hauptstr 85,Baden-Württemberg,76698,DE
+Uelzen,Celler Str 73,Niedersachsen,29525,DE
+Uetersen,Gerberstr 1-7,Schleswig-Holstein,25436,DE
+Ulm,Beim Brückle 1,Baden-Württemberg,89079,DE
+Ulm,Platzgasse 27,Baden-Württemberg,89073,DE
+Ulm,Wagnerstr 44,Baden-Württemberg,89077,DE
+Ulm,Donautalstr 32,Baden-Württemberg,89079,DE
